@@ -1,0 +1,20 @@
+{
+  "name": "uni-list-germany-wiki-parser",
+  "version": "0.1.0",
+  "description": "This parser is very basic and takes a CSV input file based on the table in the Wikipedia article at https://de.wikipedia.org/wiki/Liste_der_Hochschulen_in_Deutschland. It will convert that table to the JSON format in this repository.",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.10.1",
+    "@types/uuid": "^8.3.0",
+    "csv-parser": "^2.3.3",
+    "dotenv": "^8.2.0",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.2",
+    "uuid": "^8.3.0"
+  }
+}
