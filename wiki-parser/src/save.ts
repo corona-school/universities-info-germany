@@ -3,7 +3,7 @@ import { join } from "path";
 import University from "../../formats/uni";
 import { replaceUmlaute } from "./utils";
 
-const disallowedFileNameCharacters = /[^A-z-_]/g;
+const disallowedFileNameCharacters = /[^A-z-_0-9]/g;
 function unifiedFilenameFromString(s: string) {
     return replaceUmlaute(s) //no umlaute
         .toLowerCase() //everything should be lower case
