@@ -12,6 +12,14 @@
     "prepare": "npm run build"
   },
   "author": "Gero Embser",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/corona-school/universities-info-germany.git",
+    "directory": "npm"
+  },
+  "bugs": {
+    "url": "https://github.com/corona-school/universities-info-germany/issues"
+  },
   "license": "MIT",
   "dependencies": {},
   "files": [
