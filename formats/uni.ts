@@ -18,6 +18,7 @@ type University = {
     uuid: string;
     officialName: string;
     nicknames: string[];
+    displayName?: string;
     type: Type;
     sponsor: Sponsor;
     locations?: Location[];
