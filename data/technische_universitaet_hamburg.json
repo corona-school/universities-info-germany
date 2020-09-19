@@ -1,0 +1,18 @@
+{
+	"uuid": "1aebd6fa-99a0-4246-8ecf-6ca91ef3d4bb",
+	"officialName": "Technische Universität Hamburg",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HH"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 7615,
+		"date": "2019/20 (WS)"
+	}
+}

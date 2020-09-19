@@ -1,0 +1,18 @@
+{
+	"uuid": "58370f62-af55-4447-be38-81eda7b86e4d",
+	"officialName": "Evangelische Hochschule für Soziale Arbeit & Diakonie",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 454,
+		"date": "2012/13 (WS)"
+	}
+}

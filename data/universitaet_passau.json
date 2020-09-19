@@ -1,0 +1,18 @@
+{
+	"uuid": "2b01636d-2e0f-49bb-a82e-5bf7078381b0",
+	"officialName": "Universität Passau",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 12264,
+		"date": "2019/20 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "7758a84e-3806-462f-9481-c84cd37cedd7",
+	"officialName": "Universität zu Lübeck",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "SH"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 5331,
+		"date": "2019/20 (WS)"
+	}
+}

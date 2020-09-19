@@ -1,0 +1,18 @@
+{
+	"uuid": "d2757810-13e1-4394-8a95-8c57c25d2deb",
+	"officialName": "Pädagogische Hochschule Karlsruhe",
+	"type": "PH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 3742,
+		"date": "2016/17 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "6738ab8b-e722-46e9-8aac-44e79f9e9091",
+	"officialName": "FOM – Hochschule für Oekonomie und Management",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Essen",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 55000,
+		"date": "2019/20 (WS)"
+	}
+}

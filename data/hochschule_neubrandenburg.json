@@ -1,0 +1,18 @@
+{
+	"uuid": "c7cb20b8-a6d2-41fd-b9b2-4de2bb01135f",
+	"officialName": "Hochschule Neubrandenburg",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "MV"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 2086,
+		"date": "2012/13 (WS)"
+	}
+}

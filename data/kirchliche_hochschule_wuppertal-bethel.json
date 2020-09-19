@@ -1,0 +1,18 @@
+{
+	"uuid": "97b9c562-0c0d-42bf-a635-d6cac8ee7624",
+	"officialName": "Kirchliche Hochschule Wuppertal/Bethel",
+	"type": "Uni",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 129,
+		"date": "2014 (SS)"
+	}
+}

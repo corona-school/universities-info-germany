@@ -1,0 +1,18 @@
+{
+	"uuid": "bfe3a475-aa1a-4185-8110-267595a8912d",
+	"officialName": "Universität Bielefeld",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 25239,
+		"date": "2019/20 (WS)"
+	}
+}

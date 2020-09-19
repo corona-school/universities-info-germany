@@ -1,0 +1,18 @@
+{
+	"uuid": "088beca0-2d48-426c-b6f5-682bebb2cad0",
+	"officialName": "Hochschule für Musik und Darstellende Kunst Stuttgart",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 772,
+		"date": "2016/17 (WS)"
+	}
+}

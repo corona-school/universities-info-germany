@@ -1,0 +1,18 @@
+{
+	"uuid": "faac4dd7-45e9-49b7-9bc0-b541fa741650",
+	"officialName": "Popakademie Baden-Württemberg",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Mannheim",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 250,
+		"date": "2011"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "f28d6335-ea63-4f6d-bd24-90912f7ae0e6",
+	"officialName": "Hochschule Darmstadt",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HE"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 17062,
+		"date": "2018/19 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "04a657ba-62de-446a-b851-ea6c31d8b1c3",
+	"officialName": "Hochschule für Musik und Theater München",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 1033,
+		"date": "2012/13 (WS)"
+	}
+}

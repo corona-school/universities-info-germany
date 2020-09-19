@@ -1,0 +1,18 @@
+{
+	"uuid": "5b0f85b6-44d0-4c25-8664-22fe13cfe97e",
+	"officialName": "Universität Witten/Herdecke",
+	"type": "Uni",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 2617,
+		"date": "2019/20 (WS)"
+	}
+}

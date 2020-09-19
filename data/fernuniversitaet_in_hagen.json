@@ -1,0 +1,18 @@
+{
+	"uuid": "f4401956-4b8c-41fd-8d94-b0d7aa01bc93",
+	"officialName": "Fernuniversität in Hagen",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 67873,
+		"date": "2019/20 (WS)"
+	}
+}

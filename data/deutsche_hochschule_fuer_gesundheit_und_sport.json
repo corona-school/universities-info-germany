@@ -1,0 +1,18 @@
+{
+	"uuid": "3ba8f0c8-38ef-4ba8-af2c-a524ab05ea1f",
+	"officialName": "Deutsche Hochschule für Gesundheit und Sport",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 888,
+		"date": "2012/13 (WS)"
+	}
+}

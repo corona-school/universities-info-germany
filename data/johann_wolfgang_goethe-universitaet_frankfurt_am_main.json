@@ -1,0 +1,18 @@
+{
+	"uuid": "0be681ac-d848-49d8-9bf1-e11a7b724c3d",
+	"officialName": "Johann Wolfgang Goethe-Universität Frankfurt am Main",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HE"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 45604,
+		"date": "2019/20 (WS)"
+	}
+}

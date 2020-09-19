@@ -1,0 +1,18 @@
+{
+	"uuid": "87855c78-d920-4603-a64a-deb36d0f4d6e",
+	"officialName": "Universität Hamburg",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HH"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 43509,
+		"date": "2019/20 (WS)"
+	}
+}

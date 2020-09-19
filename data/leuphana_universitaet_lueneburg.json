@@ -1,0 +1,18 @@
+{
+	"uuid": "95d5a4a6-a027-46d8-832b-354fcbbff826",
+	"officialName": "Leuphana Universität Lüneburg",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NI"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 9595,
+		"date": "2019/20 (WS)"
+	}
+}

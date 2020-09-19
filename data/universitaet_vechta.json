@@ -1,0 +1,18 @@
+{
+	"uuid": "3e061739-a9f3-4463-8ba1-11eb85826f59",
+	"officialName": "Universität Vechta",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NI"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 4891,
+		"date": "2019/20 (WS)"
+	}
+}

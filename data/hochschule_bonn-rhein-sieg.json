@@ -1,0 +1,18 @@
+{
+	"uuid": "c07a1699-d807-48ee-a395-c52428e25bb9",
+	"officialName": "Hochschule Bonn-Rhein-Sieg",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 8000,
+		"date": "2015/16 (WS)"
+	}
+}

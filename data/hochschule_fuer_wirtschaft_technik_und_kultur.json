@@ -1,0 +1,18 @@
+{
+	"uuid": "3d339ca0-949c-4768-90d0-d42eb175efa7",
+	"officialName": "Hochschule für Wirtschaft, Technik und Kultur",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 440,
+		"date": "2017/18 (WS)"
+	}
+}

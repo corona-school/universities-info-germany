@@ -1,0 +1,18 @@
+{
+	"uuid": "f1e8a64a-cee7-4dd3-92bf-ccad97ed771f",
+	"officialName": "Theologische Fakultät Paderborn",
+	"type": "Uni",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 92,
+		"date": "2012/13 (WS)"
+	}
+}

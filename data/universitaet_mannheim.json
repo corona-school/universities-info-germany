@@ -1,0 +1,18 @@
+{
+	"uuid": "78b54a79-5e4e-48cf-ba33-1b2a4ccff65d",
+	"officialName": "Universität Mannheim",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 12088,
+		"date": "2019/20 (WS)"
+	}
+}

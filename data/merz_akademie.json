@@ -1,0 +1,18 @@
+{
+	"uuid": "6d99670e-70e3-4e4c-8d1e-ffedf21833f9",
+	"officialName": "Merz Akademie",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Stuttgart",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 250,
+		"date": "2012/13 (WS)"
+	}
+}

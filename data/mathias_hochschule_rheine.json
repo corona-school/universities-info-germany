@@ -1,0 +1,18 @@
+{
+	"uuid": "c115c5ff-f557-4ece-813d-2446bc5bfe71",
+	"officialName": "Mathias Hochschule Rheine",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 255,
+		"date": "2012/13 (WS)"
+	}
+}

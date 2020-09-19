@@ -1,0 +1,18 @@
+{
+	"uuid": "71cdd214-2971-49f0-8af5-2b75330f327c",
+	"officialName": "Allensbach Hochschule",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Konstanz",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 269,
+		"date": "2014/15 (WS)"
+	}
+}

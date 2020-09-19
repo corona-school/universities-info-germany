@@ -1,0 +1,22 @@
+{
+	"uuid": "e0d6d6bd-f573-43b9-8360-cacb94a2286b",
+	"officialName": "Hochschule Rhein-Waal",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Kleve",
+			"state": "NW"
+		},
+		{
+			"name": "Kamp-Lintfort",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 5000,
+		"date": "2014/15 (WS)"
+	}
+}

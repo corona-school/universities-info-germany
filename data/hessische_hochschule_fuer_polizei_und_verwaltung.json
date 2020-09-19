@@ -1,0 +1,18 @@
+{
+	"uuid": "add0d022-84b4-47d9-8717-bb6fce563d77",
+	"officialName": "Hessische Hochschule für Polizei und Verwaltung",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Wiesbaden",
+			"state": "HE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 2692,
+		"date": "2012/13 (WS)"
+	}
+}

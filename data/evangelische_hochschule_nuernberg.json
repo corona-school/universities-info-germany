@@ -1,0 +1,18 @@
+{
+	"uuid": "07199c90-ea97-422b-bfb3-b5182d102e13",
+	"officialName": "Evangelische Hochschule Nürnberg",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 1197,
+		"date": "2012/13 (WS)"
+	}
+}

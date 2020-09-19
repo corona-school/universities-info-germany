@@ -1,0 +1,14 @@
+{
+	"uuid": "52934543-8f3d-4070-81fd-9ea53fb9c154",
+	"officialName": "Hochschule für Kirchenmusik Heidelberg",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false
+}

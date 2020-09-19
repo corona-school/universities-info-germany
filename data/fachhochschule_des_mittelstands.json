@@ -1,0 +1,18 @@
+{
+	"uuid": "028b7d55-d3db-41b8-a049-e35e518ef6d7",
+	"officialName": "Fachhochschule des Mittelstands",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Bielefeld",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 1584,
+		"date": "2012/13 (WS)"
+	}
+}

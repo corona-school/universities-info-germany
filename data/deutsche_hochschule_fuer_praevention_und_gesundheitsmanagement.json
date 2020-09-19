@@ -1,0 +1,18 @@
+{
+	"uuid": "86d8ff11-9720-4f5c-82cc-320776ccba9f",
+	"officialName": "Deutsche Hochschule für Prävention und Gesundheitsmanagement",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Saarbrücken",
+			"state": "SL"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 3421,
+		"date": "2012/13 (WS)"
+	}
+}

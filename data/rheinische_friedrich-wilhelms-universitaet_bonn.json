@@ -1,0 +1,18 @@
+{
+	"uuid": "ce72db6f-3ab1-4b12-a8fa-b34d379c6a40",
+	"officialName": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 38481,
+		"date": "2019/20 (WS)"
+	}
+}

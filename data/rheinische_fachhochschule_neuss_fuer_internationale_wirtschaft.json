@@ -1,0 +1,18 @@
+{
+	"uuid": "c15bdd04-f116-4b06-a9ad-5f62bbbad795",
+	"officialName": "Rheinische Fachhochschule Neuss für Internationale Wirtschaft",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 177,
+		"date": "2012/13 (WS)"
+	}
+}

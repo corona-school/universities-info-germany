@@ -1,0 +1,18 @@
+{
+	"uuid": "807bfdc5-0b5b-43ad-94f1-05819ca5a9f3",
+	"officialName": "Hochschule für Musik Detmold",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 646,
+		"date": "2012/13 (WS)"
+	}
+}

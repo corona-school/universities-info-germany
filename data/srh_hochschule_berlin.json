@@ -1,0 +1,18 @@
+{
+	"uuid": "d1fb9f73-bbeb-41eb-b58c-414a2d5d15d3",
+	"officialName": "SRH Hochschule Berlin",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 518,
+		"date": "2012/13 (WS)"
+	}
+}

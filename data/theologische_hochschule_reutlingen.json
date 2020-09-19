@@ -1,0 +1,18 @@
+{
+	"uuid": "ea937d4c-e34f-4396-b9c8-a4963df1718d",
+	"officialName": "Theologische Hochschule Reutlingen",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 59,
+		"date": "2012/13 (WS)"
+	}
+}

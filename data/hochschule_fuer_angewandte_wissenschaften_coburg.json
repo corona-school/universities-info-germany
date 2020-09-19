@@ -1,0 +1,18 @@
+{
+	"uuid": "eb82693a-a6d7-42ab-9ccd-48c65a18465b",
+	"officialName": "Hochschule für angewandte Wissenschaften Coburg",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 4446,
+		"date": "2012/13 (WS)"
+	}
+}

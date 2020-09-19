@@ -1,0 +1,18 @@
+{
+	"uuid": "e27ba9e0-0c67-4bc0-9545-2ee0364b835c",
+	"officialName": "Katholische Hochschule Freiburg",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 1716,
+		"date": "2012/13 (WS)"
+	}
+}

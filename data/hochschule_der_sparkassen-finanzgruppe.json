@@ -1,0 +1,18 @@
+{
+	"uuid": "7de7c1f5-2fd8-4419-95cc-b2106ae5d02e",
+	"officialName": "Hochschule der Sparkassen-Finanzgruppe",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Bonn",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 919,
+		"date": "2012/13 (WS)"
+	}
+}

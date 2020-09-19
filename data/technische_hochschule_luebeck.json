@@ -1,0 +1,18 @@
+{
+	"uuid": "318872e0-8d5a-416f-b890-f6fcaa603935",
+	"officialName": "Technische Hochschule Lübeck",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "SH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 5056,
+		"date": "2019 (SS)"
+	}
+}

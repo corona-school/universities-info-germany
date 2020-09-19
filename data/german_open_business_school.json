@@ -1,0 +1,18 @@
+{
+	"uuid": "41c83dbf-9c82-4e73-8315-b15b6f29bc9a",
+	"officialName": "German open Business School",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 444,
+		"date": "2012/13 (WS)"
+	}
+}

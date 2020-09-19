@@ -1,0 +1,26 @@
+{
+	"uuid": "94fb70e8-1cf6-405b-8b3e-b27195c61b18",
+	"officialName": "Hochschule Anhalt",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Bernburg",
+			"state": "ST"
+		},
+		{
+			"name": "Dessau",
+			"state": "ST"
+		},
+		{
+			"name": "Köthen",
+			"state": "ST"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 4761,
+		"date": "2012/13 (WS)"
+	}
+}

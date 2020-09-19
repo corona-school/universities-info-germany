@@ -1,0 +1,18 @@
+{
+	"uuid": "e67a44d7-1f11-4b0e-a000-6152305985f8",
+	"officialName": "Pädagogische Hochschule Schwäbisch Gmünd",
+	"type": "PH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 2712,
+		"date": "2016/17 (WS)"
+	}
+}

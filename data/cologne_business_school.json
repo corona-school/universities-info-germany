@@ -1,0 +1,18 @@
+{
+	"uuid": "549ae7bd-e9d5-4826-af87-d5f67074bdb2",
+	"officialName": "Cologne Business School",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Köln",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 1123,
+		"date": "2012/13 (WS)"
+	}
+}

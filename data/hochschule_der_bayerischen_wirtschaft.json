@@ -1,0 +1,18 @@
+{
+	"uuid": "b80960ca-be03-45a4-9747-a81d51ee27f4",
+	"officialName": "Hochschule der Bayerischen Wirtschaft",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "München",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 147,
+		"date": "2015/16 (WS)"
+	}
+}

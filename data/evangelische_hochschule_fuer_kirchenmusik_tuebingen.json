@@ -1,0 +1,18 @@
+{
+	"uuid": "840e75c6-5e61-45a7-8f34-e64cb557530d",
+	"officialName": "Evangelische Hochschule für Kirchenmusik Tübingen",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 23,
+		"date": "2015/16 (WS)"
+	}
+}

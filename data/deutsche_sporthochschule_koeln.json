@@ -1,0 +1,18 @@
+{
+	"uuid": "58b078c6-2f3f-4ee2-8153-1574cec22594",
+	"officialName": "Deutsche Sporthochschule Köln",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 5794,
+		"date": "2019/20 (WS)"
+	}
+}

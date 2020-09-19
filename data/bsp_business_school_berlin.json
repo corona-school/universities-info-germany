@@ -1,0 +1,18 @@
+{
+	"uuid": "b1f477a7-00e9-469b-a0b7-0352e4ea1634",
+	"officialName": "BSP Business School Berlin",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 346,
+		"date": "2012/13 (WS)"
+	}
+}

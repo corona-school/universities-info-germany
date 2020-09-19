@@ -1,0 +1,18 @@
+{
+	"uuid": "c3b49684-084e-46ab-b179-e6e190bf75da",
+	"officialName": "Fachhochschule Wedel",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "SH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 957,
+		"date": "2012/13 (WS)"
+	}
+}

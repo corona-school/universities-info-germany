@@ -1,0 +1,18 @@
+{
+	"uuid": "1e4c16c8-14e5-4c70-833e-7d175d3cb01f",
+	"officialName": "Hochschule Bremerhaven",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HB"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 3093,
+		"date": "2012/13 (WS)"
+	}
+}

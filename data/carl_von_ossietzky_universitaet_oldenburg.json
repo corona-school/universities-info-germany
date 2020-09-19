@@ -1,0 +1,18 @@
+{
+	"uuid": "5eab8d3e-04de-4b91-97db-94c884ac08c7",
+	"officialName": "Carl von Ossietzky Universität Oldenburg",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NI"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 15989,
+		"date": "2019/20 (WS)"
+	}
+}

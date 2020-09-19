@@ -1,0 +1,18 @@
+{
+	"uuid": "74806809-28b0-4fae-a24e-578139177c63",
+	"officialName": "Hochschule Furtwangen",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 5840,
+		"date": "2012/13 (WS)"
+	}
+}

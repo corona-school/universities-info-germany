@@ -1,0 +1,18 @@
+{
+	"uuid": "57d9a651-3b2b-4d15-89d8-67fae27c93e5",
+	"officialName": "Musikhochschule Lübeck",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "SH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 369,
+		"date": "2012/13 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "6cfe4d7b-5941-49c5-8b26-cce581e2f917",
+	"officialName": "Hochschule Schmalkalden",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "TH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 2836,
+		"date": "2012/13 (WS)"
+	}
+}

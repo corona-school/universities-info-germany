@@ -1,0 +1,18 @@
+{
+	"uuid": "e23e0fb2-769e-4b27-a250-874edb945d91",
+	"officialName": "Hochschule der bildenden Künste Essen",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 139,
+		"date": "2017/18 (WS)"
+	}
+}

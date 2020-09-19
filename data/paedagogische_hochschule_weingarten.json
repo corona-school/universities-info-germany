@@ -1,0 +1,18 @@
+{
+	"uuid": "5e24b644-57e4-4570-b6d4-da78adde0a24",
+	"officialName": "Pädagogische Hochschule Weingarten",
+	"type": "PH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 3233,
+		"date": "2016/17 (WS)"
+	}
+}

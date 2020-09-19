@@ -1,0 +1,18 @@
+{
+	"uuid": "be015d90-9203-4ac6-a4b9-78964a51aa26",
+	"officialName": "Technische Universität Chemnitz",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "SN"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 9914,
+		"date": "2019/20 (WS)"
+	}
+}

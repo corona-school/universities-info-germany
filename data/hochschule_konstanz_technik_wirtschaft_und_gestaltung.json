@@ -1,0 +1,18 @@
+{
+	"uuid": "03fac35e-4a6b-4c0c-a792-19b9d6eabfad",
+	"officialName": "Hochschule Konstanz Technik, Wirtschaft und Gestaltung",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 4535,
+		"date": "2012/13 (WS)"
+	}
+}

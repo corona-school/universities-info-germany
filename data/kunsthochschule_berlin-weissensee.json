@@ -1,0 +1,18 @@
+{
+	"uuid": "d8b426bf-4aa5-4661-8880-2535ee3945b8",
+	"officialName": "Kunsthochschule Berlin-Weißensee",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 802,
+		"date": "2012/13 (WS)"
+	}
+}

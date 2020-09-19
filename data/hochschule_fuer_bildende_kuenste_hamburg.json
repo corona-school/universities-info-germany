@@ -1,0 +1,18 @@
+{
+	"uuid": "7b3515f1-fe1e-4330-8bfc-8745b4c5b70c",
+	"officialName": "Hochschule für bildende Künste Hamburg",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HH"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 884,
+		"date": "2012/13 (WS)"
+	}
+}

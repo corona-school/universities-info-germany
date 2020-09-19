@@ -1,0 +1,18 @@
+{
+	"uuid": "d23d8ec8-77b3-4455-ac0a-3d57258b2e48",
+	"officialName": "Hochschule für Polizei Baden-Württemberg",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 1251,
+		"date": "2012/13 (WS)"
+	}
+}

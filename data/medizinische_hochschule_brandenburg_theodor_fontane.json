@@ -1,0 +1,18 @@
+{
+	"uuid": "6b5554cf-5eb8-461c-b926-f67af425509b",
+	"officialName": "Medizinische Hochschule Brandenburg Theodor Fontane",
+	"type": "Uni",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BB"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 82,
+		"date": "2015/16 (WS)"
+	}
+}

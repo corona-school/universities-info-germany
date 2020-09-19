@@ -1,0 +1,18 @@
+{
+	"uuid": "2eabc034-8743-4c04-9eb1-990ca376a901",
+	"officialName": "EBZ Business School",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Bochum",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 569,
+		"date": "2012/13 (WS)"
+	}
+}

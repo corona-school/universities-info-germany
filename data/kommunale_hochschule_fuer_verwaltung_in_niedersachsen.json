@@ -1,0 +1,18 @@
+{
+	"uuid": "14b3a8a7-9d76-449d-b516-61bbb5a8a34e",
+	"officialName": "Kommunale Hochschule für Verwaltung in Niedersachsen",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Hannover",
+			"state": "NI"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 806,
+		"date": "2012/13 (WS)"
+	}
+}

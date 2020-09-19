@@ -1,0 +1,18 @@
+{
+	"uuid": "002ca039-b545-457a-822a-02b17ff08861",
+	"officialName": "Katholische Hochschule für Kirchenmusik Rottenburg",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 40,
+		"date": "2010/11 (WS)"
+	}
+}

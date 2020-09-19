@@ -1,0 +1,18 @@
+{
+	"uuid": "18b09a47-4206-4dd0-8f9a-a96dc853698c",
+	"officialName": "Hochschule Aalen",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 4970,
+		"date": "2012/13 (WS)"
+	}
+}

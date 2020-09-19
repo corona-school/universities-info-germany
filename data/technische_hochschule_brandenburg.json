@@ -1,0 +1,18 @@
+{
+	"uuid": "ee8dbc1d-9fc6-471b-bde3-133cdd33f5c5",
+	"officialName": "Technische Hochschule Brandenburg",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BB"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 2920,
+		"date": "2012/13 (WS)"
+	}
+}

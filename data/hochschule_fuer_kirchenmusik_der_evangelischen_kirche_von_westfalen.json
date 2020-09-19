@@ -1,0 +1,18 @@
+{
+	"uuid": "74103382-2899-4fa5-b04e-774f5839e345",
+	"officialName": "Hochschule für Kirchenmusik der Evangelischen Kirche von Westfalen",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Herford",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 38,
+		"date": "2012/13 (WS)"
+	}
+}

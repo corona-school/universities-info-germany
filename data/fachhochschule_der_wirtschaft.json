@@ -1,0 +1,18 @@
+{
+	"uuid": "ce13d1bd-3104-49ea-a2bb-a15bfe28f5fa",
+	"officialName": "Fachhochschule der Wirtschaft",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Paderborn",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 1874,
+		"date": "2012/13 (WS)"
+	}
+}

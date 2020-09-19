@@ -1,0 +1,18 @@
+{
+	"uuid": "66e55e25-aff0-425a-8d33-cf9b7be3014d",
+	"officialName": "Dekra Hochschule für Medien",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 332,
+		"date": "2012/13 (WS)"
+	}
+}

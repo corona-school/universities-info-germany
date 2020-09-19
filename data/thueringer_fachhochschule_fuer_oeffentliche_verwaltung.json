@@ -1,0 +1,22 @@
+{
+	"uuid": "4f105c5c-4d55-49c0-bc1a-0ae96eaf9e06",
+	"officialName": "Thüringer Fachhochschule für öffentliche Verwaltung",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Gotha",
+			"state": "TH"
+		},
+		{
+			"name": "Meiningen",
+			"state": "TH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 396,
+		"date": "2012/13 (WS)"
+	}
+}

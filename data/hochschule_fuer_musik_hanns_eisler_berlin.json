@@ -1,0 +1,18 @@
+{
+	"uuid": "4a56c709-fd22-49be-aee6-7a5dcfd3c2cb",
+	"officialName": "Hochschule für Musik Hanns Eisler Berlin",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 488,
+		"date": "2012/13 (WS)"
+	}
+}

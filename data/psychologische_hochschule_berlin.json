@@ -1,0 +1,18 @@
+{
+	"uuid": "861af693-1f36-442c-8d21-7637618aa1cb",
+	"officialName": "Psychologische Hochschule Berlin",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 458,
+		"date": "2019/20 (WS)"
+	}
+}

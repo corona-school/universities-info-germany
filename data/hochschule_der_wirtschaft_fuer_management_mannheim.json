@@ -1,0 +1,18 @@
+{
+	"uuid": "25f5d2e9-1d86-4ea8-8646-d44b209bfcfe",
+	"officialName": "Hochschule der Wirtschaft für Management Mannheim",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 238,
+		"date": "2012/13 (WS)"
+	}
+}

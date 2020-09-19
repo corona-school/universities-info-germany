@@ -1,0 +1,18 @@
+{
+	"uuid": "4aeeed30-dcef-4d18-bc4f-322f24ed3025",
+	"officialName": "CODE University of Applied Sciences",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 230,
+		"date": "2018/19 (WS)"
+	}
+}

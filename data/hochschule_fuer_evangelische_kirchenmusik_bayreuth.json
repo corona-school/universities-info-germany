@@ -1,0 +1,18 @@
+{
+	"uuid": "ae0e73a9-3820-41ca-9dad-740324837d99",
+	"officialName": "Hochschule für evangelische Kirchenmusik Bayreuth",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 25,
+		"date": "2012/13 (WS)"
+	}
+}

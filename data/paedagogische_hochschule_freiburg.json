@@ -1,0 +1,18 @@
+{
+	"uuid": "b182e61b-1a16-4207-808e-e2db475b6a0e",
+	"officialName": "Pädagogische Hochschule Freiburg",
+	"type": "PH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 4535,
+		"date": "2016/17 (WS)"
+	}
+}

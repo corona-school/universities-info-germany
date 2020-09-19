@@ -1,0 +1,18 @@
+{
+	"uuid": "5b06a189-e483-4e5d-88bf-ca0907607f63",
+	"officialName": "Universität Kassel",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HE"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 25058,
+		"date": "2019/20 (WS)"
+	}
+}

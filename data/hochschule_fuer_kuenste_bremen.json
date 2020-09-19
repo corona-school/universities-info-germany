@@ -1,0 +1,18 @@
+{
+	"uuid": "708cc05e-7044-4cb7-87b2-2df5db13057c",
+	"officialName": "Hochschule für Künste Bremen",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HB"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 903,
+		"date": "2012/13 (WS)"
+	}
+}

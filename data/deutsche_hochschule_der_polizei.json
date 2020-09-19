@@ -1,0 +1,18 @@
+{
+	"uuid": "77530c8c-a9be-4983-ba6d-b25ef75b3475",
+	"officialName": "Deutsche Hochschule der Polizei",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Münster",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 420,
+		"date": "2019/20 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "9b2bf7f2-bfee-49c7-a5ef-41a341179208",
+	"officialName": "Brand University of Applied Sciences",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 90,
+		"date": "2012/13 (WS)"
+	}
+}

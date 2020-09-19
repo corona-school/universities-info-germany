@@ -1,0 +1,18 @@
+{
+	"uuid": "9602c0cc-09ab-4109-92c6-6ba95885d57d",
+	"officialName": "Hochschule für angewandte Wissenschaften Landshut",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 5311,
+		"date": "2016/17 (WS)"
+	}
+}

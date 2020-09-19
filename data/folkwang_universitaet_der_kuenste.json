@@ -1,0 +1,18 @@
+{
+	"uuid": "cc4bc11e-d537-4d50-86e8-3fae1ca6e0a9",
+	"officialName": "Folkwang Universität der Künste",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Essen",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 1506,
+		"date": "2012/13 (WS)"
+	}
+}

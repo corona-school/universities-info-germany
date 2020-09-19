@@ -1,0 +1,18 @@
+{
+	"uuid": "0b350e6c-a17a-4df5-9a2d-9023e7bfe425",
+	"officialName": "Universität zu Köln",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 54105,
+		"date": "2019/20 (WS)"
+	}
+}

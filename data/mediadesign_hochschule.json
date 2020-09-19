@@ -1,0 +1,18 @@
+{
+	"uuid": "9196bad3-eee7-4761-986f-d1eee4b1fd19",
+	"officialName": "Mediadesign Hochschule",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 1279,
+		"date": "2012/13 (WS)"
+	}
+}

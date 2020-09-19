@@ -1,0 +1,18 @@
+{
+	"uuid": "af8d63cd-434e-4670-9650-bca14ee3d81b",
+	"officialName": "Rheinische Fachhochschule Köln",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 4742,
+		"date": "2012/13 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "f7f854bb-7e95-472e-9a18-51c86f4292e9",
+	"officialName": "Hochschule für Technik und Wirtschaft Berlin",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 13922,
+		"date": "2018 (SS)"
+	}
+}

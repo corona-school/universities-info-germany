@@ -1,0 +1,18 @@
+{
+	"uuid": "46c6a8eb-b0de-4c6c-b1c3-696df3513ba2",
+	"officialName": "Hochschule für Musik und Darstellende Kunst Mannheim",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 594,
+		"date": "2016/17 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "cafbcc52-6033-453c-bf29-edf843c1609f",
+	"officialName": "Evangelische Hochschule Ludwigsburg",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 1028,
+		"date": "2012/13 (WS)"
+	}
+}

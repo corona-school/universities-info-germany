@@ -1,0 +1,18 @@
+{
+	"uuid": "fae7e86f-49e4-47b3-ac15-ef53d3bf6255",
+	"officialName": "Hochschule für Schauspielkunst „Ernst Busch“ Berlin",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 221,
+		"date": "2012/13 (WS)"
+	}
+}

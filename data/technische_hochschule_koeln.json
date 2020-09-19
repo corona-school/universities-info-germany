@@ -1,0 +1,18 @@
+{
+	"uuid": "23c3d5b9-8272-4d28-984c-90fa0884008b",
+	"officialName": "Technische Hochschule Köln",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 23600,
+		"date": "2015 (SS)"
+	}
+}

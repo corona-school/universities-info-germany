@@ -1,0 +1,18 @@
+{
+	"uuid": "a663a85c-a6c0-4c67-8cdc-b1113c6f9d91",
+	"officialName": "Hochschule Osnabrück",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NI"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 13552,
+		"date": "2015/16 (WS)"
+	}
+}

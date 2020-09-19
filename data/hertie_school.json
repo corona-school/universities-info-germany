@@ -1,0 +1,18 @@
+{
+	"uuid": "845a56f3-b9c7-4bf9-a291-a97ec2a3c4ac",
+	"officialName": "Hertie School",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 651,
+		"date": "2019/20 (WS)"
+	}
+}

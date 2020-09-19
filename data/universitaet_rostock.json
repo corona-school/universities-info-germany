@@ -1,0 +1,18 @@
+{
+	"uuid": "75b6c689-c362-46a1-9fca-bdbac33b5f25",
+	"officialName": "Universität Rostock",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "MV"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 12994,
+		"date": "2019/20 (WS)"
+	}
+}

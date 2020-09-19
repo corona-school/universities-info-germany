@@ -1,0 +1,18 @@
+{
+	"uuid": "48158e69-f321-44b9-802c-3ce9662929d2",
+	"officialName": "Kunsthochschule Kassel",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 965,
+		"date": "2016/17 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "87622895-60cc-4b36-bb76-39ff1181ccd4",
+	"officialName": "Macromedia Hochschule für Medien und Kommunikation",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "München",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 2008,
+		"date": "2012/13 (WS)"
+	}
+}

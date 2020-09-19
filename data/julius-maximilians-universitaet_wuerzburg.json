@@ -1,0 +1,18 @@
+{
+	"uuid": "071bf5f5-b4aa-47ac-a522-38ce7ef72658",
+	"officialName": "Julius-Maximilians-Universität Würzburg",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 27552,
+		"date": "2019/20 (WS)"
+	}
+}

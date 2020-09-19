@@ -1,0 +1,18 @@
+{
+	"uuid": "39059535-878c-4f03-8f55-e546169af588",
+	"officialName": "Hochschule für Finanzen Rheinland-Pfalz",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Edenkoben",
+			"state": "RP"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 474,
+		"date": "2012/13 (WS)"
+	}
+}

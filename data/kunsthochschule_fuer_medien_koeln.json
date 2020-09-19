@@ -1,0 +1,18 @@
+{
+	"uuid": "1f558e4a-245c-42ff-a37e-72ba4c5cf46f",
+	"officialName": "Kunsthochschule für Medien Köln",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 328,
+		"date": "2012/13 (WS)"
+	}
+}

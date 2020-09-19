@@ -1,0 +1,18 @@
+{
+	"uuid": "94724296-63b9-4503-9a75-dc586f93c6a4",
+	"officialName": "Freie Theologische Hochschule Gießen",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 209,
+		"date": "2012/13 (WS)"
+	}
+}

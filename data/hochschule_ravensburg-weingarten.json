@@ -1,0 +1,18 @@
+{
+	"uuid": "f2166576-5305-4c89-9d6a-fea18ed25d11",
+	"officialName": "Hochschule Ravensburg-Weingarten",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 3621,
+		"date": "2019/20 (WS)"
+	}
+}

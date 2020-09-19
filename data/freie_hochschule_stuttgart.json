@@ -1,0 +1,18 @@
+{
+	"uuid": "a591c69b-7882-4cf6-b822-b603e27015ff",
+	"officialName": "Freie Hochschule Stuttgart",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 300,
+		"date": "2012/13 (WS)"
+	}
+}

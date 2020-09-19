@@ -1,0 +1,18 @@
+{
+	"uuid": "9ea4b6b1-8cae-4f25-8495-90c2f0ef4690",
+	"officialName": "IB-Hochschule Berlin",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 518,
+		"date": "2012/13 (WS)"
+	}
+}

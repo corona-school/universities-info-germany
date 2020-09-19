@@ -1,0 +1,18 @@
+{
+	"uuid": "c58c0940-94b2-4b04-83ca-0f3ca1345cb5",
+	"officialName": "Heinrich-Heine-Universität Düsseldorf",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 37473,
+		"date": "2019/20 (WS)"
+	}
+}

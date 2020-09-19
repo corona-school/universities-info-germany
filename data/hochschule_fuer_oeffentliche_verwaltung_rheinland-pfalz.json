@@ -1,0 +1,22 @@
+{
+	"uuid": "a3783820-e11e-46ff-8630-4257e10ac75e",
+	"officialName": "Hochschule für öffentliche Verwaltung Rheinland-Pfalz",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Mayen",
+			"state": "RP"
+		},
+		{
+			"name": "Lautzenhausen",
+			"state": "RP"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 1692,
+		"date": "2012/13 (WS)"
+	}
+}

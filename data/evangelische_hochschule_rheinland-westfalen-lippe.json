@@ -1,0 +1,18 @@
+{
+	"uuid": "039e64b2-31f3-47e8-900c-124ffa708be6",
+	"officialName": "Evangelische Hochschule Rheinland-Westfalen-Lippe",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Bochum",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 2000,
+		"date": "2012/13 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "756755e6-5316-4086-905d-cc58faa1074e",
+	"officialName": "Universität Duisburg-Essen",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 43029,
+		"date": "2019/20 (WS)"
+	}
+}

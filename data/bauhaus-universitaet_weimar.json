@@ -1,0 +1,18 @@
+{
+	"uuid": "4771c8f8-dbb9-4315-bc8e-0b1cc8e45066",
+	"officialName": "Bauhaus-Universität Weimar",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "TH"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 3890,
+		"date": "2019/20 (WS)"
+	}
+}

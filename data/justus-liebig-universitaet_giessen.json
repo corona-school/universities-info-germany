@@ -1,0 +1,18 @@
+{
+	"uuid": "dca1d5a5-8b8d-461a-ab04-d34813fd8cba",
+	"officialName": "Justus-Liebig-Universität Gießen",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HE"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 27727,
+		"date": "2019/20 (WS)"
+	}
+}

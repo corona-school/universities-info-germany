@@ -1,0 +1,18 @@
+{
+	"uuid": "ce8f462f-e810-4183-8089-8683f2528558",
+	"officialName": "PFH Private Hochschule Göttingen",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NI"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 2013,
+		"date": "2012/13 (WS)"
+	}
+}

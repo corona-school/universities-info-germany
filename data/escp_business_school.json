@@ -1,0 +1,18 @@
+{
+	"uuid": "70add29e-bb31-4c94-9748-aa6e3e1a5824",
+	"officialName": "ESCP Business School",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 736,
+		"date": "2019/20 (WS)"
+	}
+}

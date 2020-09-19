@@ -1,0 +1,18 @@
+{
+	"uuid": "74469b87-c372-4856-af06-aa342f9877d5",
+	"officialName": "Alice Salomon Hochschule Berlin",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 3051,
+		"date": "2012/13 (WS)"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"uuid": "4a161a3c-2a14-45fb-8c64-8e36a948b4da",
+	"officialName": "Jade Hochschule",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Wilhelmshaven",
+			"state": "NI"
+		},
+		{
+			"name": "Oldenburg",
+			"state": "NI"
+		},
+		{
+			"name": "Elsfleth",
+			"state": "NI"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 6434,
+		"date": "2012/13 (WS)"
+	}
+}

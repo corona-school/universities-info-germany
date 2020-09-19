@@ -1,0 +1,18 @@
+{
+	"uuid": "bdda89b2-dd13-466c-8f4b-45ceddd462aa",
+	"officialName": "Norddeutsche Akademie für Finanzen und Steuerrecht",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Hamburg",
+			"state": "HH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 359,
+		"date": "2012/13 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "dd676926-d2f5-4cef-8581-9e3a545fcec7",
+	"officialName": "Fachhochschule Nordhausen",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "TH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 2461,
+		"date": "2012/13 (WS)"
+	}
+}

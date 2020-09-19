@@ -1,0 +1,18 @@
+{
+	"uuid": "7f2af5c1-9a46-46b0-959c-5a43744c5cdf",
+	"officialName": "Medizinische Hochschule Hannover",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NI"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 3465,
+		"date": "2019/20 (WS)"
+	}
+}

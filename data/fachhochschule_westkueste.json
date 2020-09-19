@@ -1,0 +1,18 @@
+{
+	"uuid": "2188703c-f8a3-4cfc-a1c8-fde64e55c85b",
+	"officialName": "Fachhochschule Westküste",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Heide",
+			"state": "SH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 1320,
+		"date": "2012/13 (WS)"
+	}
+}

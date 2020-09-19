@@ -1,0 +1,18 @@
+{
+	"uuid": "9117bf04-4673-4b58-b3d7-05a316fa6b6e",
+	"officialName": "Hochschule für nachhaltige Entwicklung Eberswalde",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BB"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 2033,
+		"date": "2012/13 (WS)"
+	}
+}

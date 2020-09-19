@@ -1,0 +1,18 @@
+{
+	"uuid": "37d4aca9-c1aa-4a0a-b87a-6e429224ece7",
+	"officialName": "Hochschule Kehl",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 991,
+		"date": "2012/13 (WS)"
+	}
+}

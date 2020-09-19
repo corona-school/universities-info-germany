@@ -1,0 +1,18 @@
+{
+	"uuid": "e606c87c-0123-4dc8-bb04-e56ed42c52c0",
+	"officialName": "Universität Leipzig",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "SN"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 28727,
+		"date": "2019/20 (WS)"
+	}
+}

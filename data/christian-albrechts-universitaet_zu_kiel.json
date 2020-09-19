@@ -1,0 +1,18 @@
+{
+	"uuid": "3c45f3dd-0419-42b9-a271-cb882d680dd2",
+	"officialName": "Christian-Albrechts-Universität zu Kiel",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "SH"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 27101,
+		"date": "2019/20 (WS)"
+	}
+}

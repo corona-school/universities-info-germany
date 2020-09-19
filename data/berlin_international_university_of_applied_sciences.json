@@ -1,0 +1,18 @@
+{
+	"uuid": "af2f75d3-fd81-4a14-a042-a7e177f02a1f",
+	"officialName": "Berlin International University of Applied Sciences",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 109,
+		"date": "2016/17 (WS)"
+	}
+}

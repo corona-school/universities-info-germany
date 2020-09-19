@@ -1,0 +1,18 @@
+{
+	"uuid": "8dae213b-74bf-467a-bcaf-9b56332c4e44",
+	"officialName": "International Psychoanalytic University Berlin",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 700,
+		"date": "2019/20 (WS)"
+	}
+}

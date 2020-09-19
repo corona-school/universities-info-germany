@@ -1,0 +1,18 @@
+{
+	"uuid": "01999c2e-cd2f-4b87-bd2e-88d4ab116a26",
+	"officialName": "Eberhard Karls Universität Tübingen",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 26842,
+		"date": "2019/20 (WS)"
+	}
+}

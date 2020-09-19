@@ -1,0 +1,18 @@
+{
+	"uuid": "c655e158-624c-485b-bb0c-7ff5883705ba",
+	"officialName": "Philosophisch-Theologische Hochschule Sankt Georgen",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Frankfurt am Main",
+			"state": "HE"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 335,
+		"date": "2012/13 (WS)"
+	}
+}

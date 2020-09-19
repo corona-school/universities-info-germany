@@ -1,0 +1,18 @@
+{
+	"uuid": "242df745-193f-4215-80fd-4bda83619244",
+	"officialName": "Hochschule für Medien, Kommunikation und Wirtschaft",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 334,
+		"date": "2012/13 (WS)"
+	}
+}

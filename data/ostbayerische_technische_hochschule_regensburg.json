@@ -1,0 +1,18 @@
+{
+	"uuid": "370c4242-b7eb-470c-81f4-0d63cfe172d0",
+	"officialName": "Ostbayerische Technische Hochschule Regensburg",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 11000,
+		"date": "2015/16 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "a3122fbd-b3b6-40b3-8213-67408535ac68",
+	"officialName": "Ludwig-Maximilians-Universität München",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 52425,
+		"date": "2019/20 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "a8aab1fa-5dea-4387-91ef-0927e6fd5ae9",
+	"officialName": "Hochschule für Katholische Kirchenmusik und Musikpädagogik Regensburg",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 90,
+		"date": "2012/13 (WS)"
+	}
+}

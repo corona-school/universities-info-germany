@@ -1,0 +1,18 @@
+{
+	"uuid": "cb4af1be-2413-4771-aabf-20f5afc55f42",
+	"officialName": "Diploma Hochschule",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Bad Sooden-Allendorf",
+			"state": "HE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 3499,
+		"date": "2012/13 (WS)"
+	}
+}

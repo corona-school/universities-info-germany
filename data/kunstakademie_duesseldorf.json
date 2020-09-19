@@ -1,0 +1,18 @@
+{
+	"uuid": "0654a2d5-353c-461f-a059-1ef6a1b4b03a",
+	"officialName": "Kunstakademie Düsseldorf",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 608,
+		"date": "2012/13 (WS)"
+	}
+}

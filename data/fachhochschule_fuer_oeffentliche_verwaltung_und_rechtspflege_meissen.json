@@ -1,0 +1,18 @@
+{
+	"uuid": "96a2b76a-8a14-4697-9330-1decd1a09127",
+	"officialName": "Fachhochschule für öffentliche Verwaltung und Rechtspflege Meißen",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "SN"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 648,
+		"date": "2012/13 (WS)"
+	}
+}

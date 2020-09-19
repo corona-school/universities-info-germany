@@ -1,0 +1,18 @@
+{
+	"uuid": "a6f1fb4b-4157-460c-991b-d8753253cf11",
+	"officialName": "Nordakademie",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Elmshorn",
+			"state": "SH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 1327,
+		"date": "2012/13 (WS)"
+	}
+}

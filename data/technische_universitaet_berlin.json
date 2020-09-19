@@ -1,0 +1,18 @@
+{
+	"uuid": "ed87d1c1-9cfd-4a46-b288-228bdedeb230",
+	"officialName": "Technische Universität Berlin",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 34708,
+		"date": "2019/20 (WS)"
+	}
+}

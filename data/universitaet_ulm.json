@@ -1,0 +1,18 @@
+{
+	"uuid": "0f28587c-e94a-44e4-ba1c-5fd1ebc6883a",
+	"officialName": "Universität Ulm",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 10109,
+		"date": "2019/20 (WS)"
+	}
+}

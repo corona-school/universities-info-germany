@@ -1,0 +1,18 @@
+{
+	"uuid": "125b2bbc-8e99-4d68-9da9-7f635244ff3b",
+	"officialName": "Muthesius Kunsthochschule",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Kiel",
+			"state": "SH"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 568,
+		"date": "2012/13 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "f0d34c77-1929-49e2-8033-fb2b0bfa9a0b",
+	"officialName": "NBS Northern Business School – Hochschule für Management und Sicherheit",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 430,
+		"date": "2016 (SS)"
+	}
+}

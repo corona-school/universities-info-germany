@@ -1,0 +1,18 @@
+{
+	"uuid": "fd8bfba1-cc70-4546-b7f5-bccb6bbc4673",
+	"officialName": "Kunstakademie Münster",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 332,
+		"date": "2012/13 (WS)"
+	}
+}

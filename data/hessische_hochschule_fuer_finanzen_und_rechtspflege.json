@@ -1,0 +1,18 @@
+{
+	"uuid": "23c08a38-53ab-4c6e-bbdc-0bcc6458916e",
+	"officialName": "Hessische Hochschule für Finanzen und Rechtspflege",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Rotenburg an der Fulda",
+			"state": "HE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 879,
+		"date": "2012/13 (WS)"
+	}
+}

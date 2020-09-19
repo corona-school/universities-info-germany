@@ -1,0 +1,18 @@
+{
+	"uuid": "abe26470-4869-4255-91bc-b165784b4828",
+	"officialName": "Hochschule für Musik Karlsruhe",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 598,
+		"date": "2016/17 (WS)"
+	}
+}

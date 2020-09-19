@@ -1,0 +1,18 @@
+{
+	"uuid": "1b51355d-5403-40fc-9674-cee9d332ccc3",
+	"officialName": "Technische Hochschule Nürnberg Georg Simon Ohm",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 12860,
+		"date": "2018/19 (WS)"
+	}
+}

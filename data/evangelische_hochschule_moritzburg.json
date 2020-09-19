@@ -1,0 +1,18 @@
+{
+	"uuid": "780daa82-533c-42dd-8d9c-060d8998885f",
+	"officialName": "Evangelische Hochschule Moritzburg",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "SN"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 93,
+		"date": "2012/13 (WS)"
+	}
+}

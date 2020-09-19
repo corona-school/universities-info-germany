@@ -1,0 +1,18 @@
+{
+	"uuid": "5b6e4d82-8eb2-4809-87df-608bde6a79b6",
+	"officialName": "Hochschule für angewandte Wissenschaften Kempten",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 5888,
+		"date": "2018/19 (WS)"
+	}
+}

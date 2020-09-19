@@ -1,0 +1,18 @@
+{
+	"uuid": "cee9e75e-2ea2-4f76-9228-354adc74bcf6",
+	"officialName": "Universität der Künste Berlin",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 3447,
+		"date": "2012/13 (WS)"
+	}
+}

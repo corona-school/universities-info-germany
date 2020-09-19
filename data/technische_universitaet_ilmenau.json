@@ -1,0 +1,18 @@
+{
+	"uuid": "3ff0ca47-64f9-4aa6-bb7e-3f2fab680c64",
+	"officialName": "Technische Universität Ilmenau",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "TH"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 5425,
+		"date": "2019/20 (WS)"
+	}
+}

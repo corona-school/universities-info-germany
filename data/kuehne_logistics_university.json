@@ -1,0 +1,18 @@
+{
+	"uuid": "32538e67-df18-4707-8678-0f6302c70cfc",
+	"officialName": "Kühne Logistics University",
+	"type": "Uni",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Hamburg",
+			"state": "HH"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 343,
+		"date": "2019/20 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "567f4341-4d23-45ee-8bed-25c28d56a6b3",
+	"officialName": "Hochschule für Bildende Künste Braunschweig",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NI"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 1065,
+		"date": "2012/13 (WS)"
+	}
+}

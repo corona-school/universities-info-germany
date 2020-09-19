@@ -1,0 +1,18 @@
+{
+	"uuid": "9072948a-f370-413b-8853-908e1dda0946",
+	"officialName": "Palucca Hochschule für Tanz Dresden",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "SN"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 164,
+		"date": "2012/13 (WS)"
+	}
+}

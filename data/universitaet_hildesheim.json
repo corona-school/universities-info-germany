@@ -1,0 +1,18 @@
+{
+	"uuid": "043d56fa-2680-48f9-a4de-49ab70699f9c",
+	"officialName": "Universität Hildesheim",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NI"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 8439,
+		"date": "2019/20 (WS)"
+	}
+}

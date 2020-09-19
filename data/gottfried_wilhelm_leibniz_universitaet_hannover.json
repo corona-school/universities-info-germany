@@ -1,0 +1,18 @@
+{
+	"uuid": "a54713c2-20ff-4eab-b79b-ad71b7c28b1f",
+	"officialName": "Gottfried Wilhelm Leibniz Universität Hannover",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NI"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 30454,
+		"date": "2019/20 (WS)"
+	}
+}

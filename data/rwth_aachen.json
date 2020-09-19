@@ -1,0 +1,18 @@
+{
+	"uuid": "78f75569-2616-42f9-a836-f2f62764396d",
+	"officialName": "RWTH Aachen",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 45944,
+		"date": "2019/20 (WS)"
+	}
+}

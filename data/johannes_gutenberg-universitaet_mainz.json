@@ -1,0 +1,18 @@
+{
+	"uuid": "b07ad914-732c-4e63-aced-c354875c9623",
+	"officialName": "Johannes Gutenberg-Universität Mainz",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "RP"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 31064,
+		"date": "2018/19 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "860ea079-5c85-4ef2-a2ab-ed98d09df083",
+	"officialName": "Hochschule für angewandtes Management",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Ismaning",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 3000,
+		"date": "2018/19 (WS)"
+	}
+}

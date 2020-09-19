@@ -1,0 +1,18 @@
+{
+	"uuid": "1d1576c3-29bc-42ea-af84-5216f316dd9d",
+	"officialName": "Duale Hochschule Baden-Württemberg",
+	"type": "DH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Stuttgart",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 34242,
+		"date": "2016/17 (WS)"
+	}
+}

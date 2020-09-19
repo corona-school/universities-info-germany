@@ -1,0 +1,18 @@
+{
+	"uuid": "07b759cc-f899-4ab3-b57b-73d066851b24",
+	"officialName": "Fachhochschule für öffentliche Verwaltung, Polizei und Rechtspflege",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Güstrow",
+			"state": "MV"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 466,
+		"date": "2012/13 (WS)"
+	}
+}

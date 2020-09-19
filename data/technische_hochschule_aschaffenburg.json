@@ -1,0 +1,18 @@
+{
+	"uuid": "eef01ac6-326d-4ce2-ad39-b272def172d3",
+	"officialName": "Technische Hochschule Aschaffenburg",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 2867,
+		"date": "2012/13 (WS)"
+	}
+}

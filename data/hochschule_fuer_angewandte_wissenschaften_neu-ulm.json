@@ -1,0 +1,18 @@
+{
+	"uuid": "78bb5dd6-676d-4f95-982c-7ef656e0b9dd",
+	"officialName": "Hochschule für angewandte Wissenschaften Neu-Ulm",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 3825,
+		"date": "2014/2015 (WS)"
+	}
+}

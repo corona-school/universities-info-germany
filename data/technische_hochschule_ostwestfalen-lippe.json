@@ -1,0 +1,18 @@
+{
+	"uuid": "b114334d-57ac-4ffe-b16b-cb5524bfca5a",
+	"officialName": "Technische Hochschule Ostwestfalen-Lippe",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Lemgo",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 6361,
+		"date": "2012/13 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "c82cb9c5-fe11-4dc2-aa44-d50f1019b767",
+	"officialName": "Technische Hochschule Wildau",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "FH",
+			"state": "BB"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 4152,
+		"date": "2012/13 (WS)"
+	}
+}

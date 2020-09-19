@@ -1,0 +1,18 @@
+{
+	"uuid": "6564c066-f634-4cc6-b8f4-dee4e3f62d20",
+	"officialName": "Europäische Fernhochschule Hamburg",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 7025,
+		"date": "2016/17 (WS)"
+	}
+}

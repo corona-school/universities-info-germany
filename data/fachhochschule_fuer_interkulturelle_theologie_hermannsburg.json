@@ -1,0 +1,18 @@
+{
+	"uuid": "0390bf4f-f10e-4e3d-b15f-bbdd014baa20",
+	"officialName": "Fachhochschule für Interkulturelle Theologie Hermannsburg",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NI"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 15,
+		"date": "2012/13 (WS)"
+	}
+}

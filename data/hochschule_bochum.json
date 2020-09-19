@@ -1,0 +1,18 @@
+{
+	"uuid": "10bb9185-0ad3-422e-bf45-bf88bfffd2be",
+	"officialName": "Hochschule Bochum",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 8041,
+		"date": "2018/19 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "03c21d9d-6e84-4075-aabb-d39d66060b7e",
+	"officialName": "Ernst-Abbe-Hochschule Jena",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "TH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 4702,
+		"date": "2012/13 (WS)"
+	}
+}

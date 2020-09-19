@@ -1,0 +1,18 @@
+{
+	"uuid": "d4482164-af2e-4aa3-84db-b8d82ca52bb6",
+	"officialName": "Akademie der Bildenden Künste Nürnberg",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 317,
+		"date": "2012/13 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "a60f3fc7-4a29-40e7-acda-3c00f03837f2",
+	"officialName": "Filmuniversität Babelsberg Konrad Wolf",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Potsdam",
+			"state": "BB"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 863,
+		"date": "2019/20 (WS)"
+	}
+}

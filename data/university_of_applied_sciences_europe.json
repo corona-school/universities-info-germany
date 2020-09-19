@@ -1,0 +1,26 @@
+{
+	"uuid": "e76d6487-1b16-400f-b62a-672779cbeead",
+	"officialName": "University of Applied Sciences Europe",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Iserlohn",
+			"state": "NW"
+		},
+		{
+			"name": "Hamburg",
+			"state": "HH"
+		},
+		{
+			"name": "Berlin",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 2716,
+		"date": "2018/19 (WS)"
+	}
+}

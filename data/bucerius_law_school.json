@@ -1,0 +1,18 @@
+{
+	"uuid": "c7f707a7-f176-4497-a248-32a9aeaa67bb",
+	"officialName": "Bucerius Law School",
+	"type": "Uni",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HH"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 858,
+		"date": "2019/20 (WS)"
+	}
+}

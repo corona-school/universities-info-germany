@@ -1,0 +1,18 @@
+{
+	"uuid": "ba0d7852-8eae-4ece-8d83-a1bbc5428b88",
+	"officialName": "Fachhochschule Schwetzingen",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 436,
+		"date": "2012/13 (WS)"
+	}
+}

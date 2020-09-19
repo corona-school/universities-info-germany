@@ -1,0 +1,18 @@
+{
+	"uuid": "179ffc14-8b59-4b8e-a80e-0700bbef537b",
+	"officialName": "AKAD Bildungsgesellschaft",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Stuttgart",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 5207,
+		"date": "2012/13 (WS)"
+	}
+}

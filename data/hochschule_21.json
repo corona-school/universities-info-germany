@@ -1,0 +1,18 @@
+{
+	"uuid": "a54fac94-2bf8-4e29-8f26-11e5752af2d1",
+	"officialName": "hochschule 21",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Buxtehude",
+			"state": "NI"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 714,
+		"date": "2012/13 (WS)"
+	}
+}

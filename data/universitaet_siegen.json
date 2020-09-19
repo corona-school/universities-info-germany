@@ -1,0 +1,18 @@
+{
+	"uuid": "945edf0d-1d82-4428-a63a-88d8a392c890",
+	"officialName": "Universität Siegen",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 19114,
+		"date": "2019/20 (WS)"
+	}
+}

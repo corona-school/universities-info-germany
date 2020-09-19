@@ -1,0 +1,30 @@
+{
+	"uuid": "eee797bf-c1d6-40e2-b0c0-62167bb30821",
+	"officialName": "Ostfalia Hochschule für angewandte Wissenschaften",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Wolfenbüttel",
+			"state": "NI"
+		},
+		{
+			"name": "Salzgitter",
+			"state": "NI"
+		},
+		{
+			"name": "Wolfsburg",
+			"state": "NI"
+		},
+		{
+			"name": "Suderburg",
+			"state": "NI"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 11042,
+		"date": "2012/13 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "989bb641-1761-4718-b54f-c356273667c7",
+	"officialName": "Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 1902,
+		"date": "2012/13 (WS)"
+	}
+}

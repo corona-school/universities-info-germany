@@ -1,0 +1,18 @@
+{
+	"uuid": "cbc05692-e5bb-4fc0-b93b-3feae183d21d",
+	"officialName": "Hochschule für angewandte Wissenschaften München",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 17830,
+		"date": "2017/18 (WS)"
+	}
+}

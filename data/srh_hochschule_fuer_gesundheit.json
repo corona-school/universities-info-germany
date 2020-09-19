@@ -1,0 +1,18 @@
+{
+	"uuid": "cbcf2a21-a3e7-4929-816b-af008cb79f99",
+	"officialName": "SRH Hochschule für Gesundheit",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Gera",
+			"state": "TH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 486,
+		"date": "2012/13 (WS)"
+	}
+}

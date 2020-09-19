@@ -1,0 +1,18 @@
+{
+	"uuid": "ca1703e0-cb5d-4e8e-ba43-72366182fedf",
+	"officialName": "Europa-Universität Viadrina",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Frankfurt (Oder)",
+			"state": "BB"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 6004,
+		"date": "2019/20 (WS)"
+	}
+}

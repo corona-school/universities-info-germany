@@ -1,0 +1,18 @@
+{
+	"uuid": "2e724c02-2243-4949-8257-c5a3fb4a5aeb",
+	"officialName": "Philosophisch-Theologische Hochschule Münster",
+	"type": "Uni",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 62,
+		"date": "2012/13 (WS)"
+	}
+}

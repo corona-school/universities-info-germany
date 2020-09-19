@@ -1,0 +1,18 @@
+{
+	"uuid": "ac6cbc16-fc3b-42f9-a229-ab26e8de9758",
+	"officialName": "Hochschule für Musik und Tanz Köln",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 1568,
+		"date": "2012/13 (WS)"
+	}
+}

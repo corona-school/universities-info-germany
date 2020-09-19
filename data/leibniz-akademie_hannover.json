@@ -1,0 +1,18 @@
+{
+	"uuid": "04459c3c-109f-4a05-92f2-9a474df2c4b2",
+	"officialName": "Leibniz-Akademie Hannover",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Hannover",
+			"state": "NI"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 311,
+		"date": "2012/13 (WS)"
+	}
+}

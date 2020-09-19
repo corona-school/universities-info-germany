@@ -1,0 +1,18 @@
+{
+	"uuid": "c0b47eba-8436-4b24-befc-ea84ed2d294c",
+	"officialName": "Staatliche Hochschule für Gestaltung Karlsruhe",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 397,
+		"date": "2016/17 (WS)"
+	}
+}

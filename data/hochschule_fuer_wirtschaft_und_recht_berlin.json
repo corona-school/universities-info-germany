@@ -1,0 +1,18 @@
+{
+	"uuid": "3bc4e7bc-95d6-4330-b36f-114157a92e8c",
+	"officialName": "Hochschule für Wirtschaft und Recht Berlin",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 11400,
+		"date": "2019 (SS)"
+	}
+}

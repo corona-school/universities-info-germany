@@ -1,0 +1,18 @@
+{
+	"uuid": "8f514495-8ea9-4300-bd0b-cdfa609ee3ba",
+	"officialName": "Hochschule für Philosophie München",
+	"type": "Uni",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 336,
+		"date": "2012/13 (WS)"
+	}
+}

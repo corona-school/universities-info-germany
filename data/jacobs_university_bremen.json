@@ -1,0 +1,18 @@
+{
+	"uuid": "31ca521b-b536-4c37-b4e7-6db766b2e9eb",
+	"officialName": "Jacobs University Bremen",
+	"type": "Uni",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HB"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 1466,
+		"date": "2019/20 (WS)"
+	}
+}

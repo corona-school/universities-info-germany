@@ -1,0 +1,18 @@
+{
+	"uuid": "c423523a-de36-41f1-b154-ed02d211d0f1",
+	"officialName": "Evangelische Hochschule für Kirchenmusik Halle",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "ST"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 49,
+		"date": "2012/13 (WS)"
+	}
+}

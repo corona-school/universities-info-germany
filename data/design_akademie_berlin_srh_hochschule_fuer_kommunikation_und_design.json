@@ -1,0 +1,18 @@
+{
+	"uuid": "05a4d8a6-799d-488c-bad2-2969c0f63ed3",
+	"officialName": "design akademie berlin, SRH Hochschule für Kommunikation und Design",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 295,
+		"date": "2012/13 (WS)"
+	}
+}

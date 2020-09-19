@@ -1,0 +1,18 @@
+{
+	"uuid": "ba3db3aa-dc24-47fd-aef2-290f2e190fd2",
+	"officialName": "Hochschule für Politik München",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 434,
+		"date": "2019/20 (WS)"
+	}
+}

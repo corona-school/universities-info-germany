@@ -1,0 +1,18 @@
+{
+	"uuid": "fdd7e1ce-df4b-4dc2-8bd5-a4eee1d06289",
+	"officialName": "Provadis School of International Management and Technology",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Frankfurt am Main",
+			"state": "HE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 897,
+		"date": "2012/13 (WS)"
+	}
+}

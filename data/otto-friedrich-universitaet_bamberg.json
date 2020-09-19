@@ -1,0 +1,18 @@
+{
+	"uuid": "b312d146-7460-4053-b12c-69b225df5807",
+	"officialName": "Otto-Friedrich-Universität Bamberg",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 12079,
+		"date": "2019/20 (WS)"
+	}
+}

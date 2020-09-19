@@ -1,0 +1,18 @@
+{
+	"uuid": "e9aa12ef-bc6b-447b-a3ef-c51d4cb2c956",
+	"officialName": "Hochschule Weihenstephan-Triesdorf",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 6407,
+		"date": "2014/15 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "2e8a8c82-3aa3-40f0-b2da-9f055936b75b",
+	"officialName": "Fachhochschule für öffentliche Verwaltung und Rechtspflege in Bayern",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "München",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 3824,
+		"date": "2012/13 (WS)"
+	}
+}

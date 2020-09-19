@@ -1,0 +1,18 @@
+{
+	"uuid": "3d46c236-255a-49c5-801c-2ead3b92a14f",
+	"officialName": "Staatliche Hochschule für Bildende Künste – Städelschule",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Frankfurt am Main",
+			"state": "HE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 196,
+		"date": "2012/13 (WS)"
+	}
+}

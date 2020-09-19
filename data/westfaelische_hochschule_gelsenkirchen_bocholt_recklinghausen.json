@@ -1,0 +1,18 @@
+{
+	"uuid": "ff79f840-8cc1-4508-bc7b-2a5660976df6",
+	"officialName": "Westfälische Hochschule Gelsenkirchen Bocholt Recklinghausen",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 8731,
+		"date": "2019/20 (WS)"
+	}
+}

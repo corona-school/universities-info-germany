@@ -1,0 +1,18 @@
+{
+	"uuid": "b63636b5-460a-437c-8056-f429573b7fc6",
+	"officialName": "Universität Bayreuth",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 12931,
+		"date": "2019/20 (WS)"
+	}
+}

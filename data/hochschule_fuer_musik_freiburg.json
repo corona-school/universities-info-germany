@@ -1,0 +1,18 @@
+{
+	"uuid": "ec37ea32-3c05-4375-9daf-487226306a83",
+	"officialName": "Hochschule für Musik Freiburg",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 481,
+		"date": "2016/17 (WS)"
+	}
+}

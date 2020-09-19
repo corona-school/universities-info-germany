@@ -1,0 +1,18 @@
+{
+	"uuid": "124593eb-8bce-4550-9544-26ac417d650f",
+	"officialName": "Fachhochschule Dresden",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "SN"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 113,
+		"date": "2012/13 (WS)"
+	}
+}

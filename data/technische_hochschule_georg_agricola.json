@@ -1,0 +1,18 @@
+{
+	"uuid": "e4f2ef9f-b358-470a-848f-9325f70e1ae7",
+	"officialName": "Technische Hochschule Georg Agricola",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Bochum",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 2178,
+		"date": "2012/13 (WS)"
+	}
+}

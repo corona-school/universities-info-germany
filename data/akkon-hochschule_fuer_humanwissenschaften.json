@@ -1,0 +1,18 @@
+{
+	"uuid": "da50314e-a3f5-4d94-b1db-7a728bcd084e",
+	"officialName": "Akkon-Hochschule für Humanwissenschaften",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 800,
+		"date": "2019/20 (WS)"
+	}
+}

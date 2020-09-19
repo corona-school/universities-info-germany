@@ -1,0 +1,18 @@
+{
+	"uuid": "1252cec7-0850-4047-b02d-54a7031eb6c3",
+	"officialName": "Hochschule Wismar",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "MV"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 7379,
+		"date": "2012/13 (WS)"
+	}
+}

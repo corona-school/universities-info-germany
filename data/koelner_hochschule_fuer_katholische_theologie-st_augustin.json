@@ -1,0 +1,18 @@
+{
+	"uuid": "e000924f-790d-4221-b141-d7d9149769bc",
+	"officialName": "Kölner Hochschule für Katholische Theologie  – St. Augustin",
+	"type": "Uni",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "KHKT",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 104,
+		"date": "2012/13 (WS)"
+	}
+}

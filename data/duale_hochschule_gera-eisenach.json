@@ -1,0 +1,18 @@
+{
+	"uuid": "a1567084-603d-452f-89a5-481a1d0f12ce",
+	"officialName": "Duale Hochschule Gera-Eisenach",
+	"type": "DH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "TH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 1440,
+		"date": "2018/19 (WS)"
+	}
+}

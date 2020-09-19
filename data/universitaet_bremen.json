@@ -1,0 +1,18 @@
+{
+	"uuid": "6de3e54b-f41a-4f9c-baf9-a2471bc35d72",
+	"officialName": "Universität Bremen",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HB"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 18488,
+		"date": "2019/20 (WS)"
+	}
+}

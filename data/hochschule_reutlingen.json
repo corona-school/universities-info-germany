@@ -1,0 +1,18 @@
+{
+	"uuid": "f5b2f709-0e29-4adf-ace1-a4575293f9ac",
+	"officialName": "Hochschule Reutlingen",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 5091,
+		"date": "2012/13 (WS)"
+	}
+}

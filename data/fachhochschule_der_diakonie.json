@@ -1,0 +1,18 @@
+{
+	"uuid": "85045bb8-7d67-4102-9d1b-06df1b4405e4",
+	"officialName": "Fachhochschule der Diakonie",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Bielefeld",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 559,
+		"date": "2012/13 (WS)"
+	}
+}

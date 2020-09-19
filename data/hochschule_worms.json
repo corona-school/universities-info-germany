@@ -1,0 +1,18 @@
+{
+	"uuid": "f9000742-dcd0-4c88-a851-bd03f0516609",
+	"officialName": "Hochschule Worms",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "RP"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 3722,
+		"date": "2018/19 (WS)"
+	}
+}

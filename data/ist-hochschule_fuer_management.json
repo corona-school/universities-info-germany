@@ -1,0 +1,18 @@
+{
+	"uuid": "f0de54ce-cde4-4031-9571-fb4b8a8abcfd",
+	"officialName": "IST-Hochschule für Management",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Düsseldorf",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 1134,
+		"date": "2015/16 (WS)"
+	}
+}

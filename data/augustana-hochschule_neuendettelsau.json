@@ -1,0 +1,18 @@
+{
+	"uuid": "767a17bf-d499-403c-83b6-d19be7a8a4ed",
+	"officialName": "Augustana-Hochschule Neuendettelsau",
+	"type": "Uni",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 147,
+		"date": "2012/13 (WS)"
+	}
+}

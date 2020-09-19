@@ -1,0 +1,18 @@
+{
+	"uuid": "4206bd79-a43f-4838-ad55-6b3405841fba",
+	"officialName": "Hochschule für Kunsttherapie Nürtingen",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 289,
+		"date": "2012/13 (WS)"
+	}
+}

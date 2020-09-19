@@ -1,0 +1,18 @@
+{
+	"uuid": "038849e1-9f22-4382-81a1-4c96caf118a9",
+	"officialName": "Europäische Fachhochschule",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Brühl",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 1599,
+		"date": "2012/13 (WS)"
+	}
+}

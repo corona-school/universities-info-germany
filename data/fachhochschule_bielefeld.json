@@ -1,0 +1,18 @@
+{
+	"uuid": "f46dd5b4-b30b-4d06-b670-e72ee770ee29",
+	"officialName": "Fachhochschule Bielefeld",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 10085,
+		"date": "2016/17 (WS)"
+	}
+}

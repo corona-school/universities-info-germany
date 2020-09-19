@@ -1,0 +1,18 @@
+{
+	"uuid": "1f548d76-89d0-4bdc-bee1-722fafda9d25",
+	"officialName": "Hochschule der Medien",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Stuttgart",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 4085,
+		"date": "2012/13 (WS)"
+	}
+}

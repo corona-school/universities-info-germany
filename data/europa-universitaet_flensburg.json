@@ -1,0 +1,18 @@
+{
+	"uuid": "3262de2d-434d-4e63-8770-2dce452e18ff",
+	"officialName": "Europa-Universität Flensburg",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "SH"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 5938,
+		"date": "2019/20 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "d6fefa1f-1f53-4bd2-adf8-4b649489e01b",
+	"officialName": "Hochschule der Deutschen Gesetzlichen Unfallversicherung",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Bad Hersfeld",
+			"state": "HE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 151,
+		"date": "2012/13 (WS)"
+	}
+}

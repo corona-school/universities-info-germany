@@ -1,0 +1,18 @@
+{
+	"uuid": "77289be6-919f-4297-8275-a08c0489a8ef",
+	"officialName": "Universität Greifswald",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "MV"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 10058,
+		"date": "2019/20 (WS)"
+	}
+}

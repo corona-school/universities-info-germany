@@ -1,0 +1,18 @@
+{
+	"uuid": "2faf1663-021d-4ef1-a05c-672dd433c10d",
+	"officialName": "Fachhochschule Potsdam",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BB"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 3283,
+		"date": "2012/13 (WS)"
+	}
+}

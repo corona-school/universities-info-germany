@@ -1,0 +1,18 @@
+{
+	"uuid": "120d7eb8-befc-4646-94b9-f1871bc3562c",
+	"officialName": "Hochschule für Musik Trossingen",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 463,
+		"date": "2016/17 (WS)"
+	}
+}

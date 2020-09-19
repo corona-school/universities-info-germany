@@ -1,0 +1,18 @@
+{
+	"uuid": "8c593ede-6984-4c62-b728-9740170c0bbc",
+	"officialName": "Hochschule für angewandte Wissenschaften Augsburg",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 5895,
+		"date": "2015/16 (WS)"
+	}
+}

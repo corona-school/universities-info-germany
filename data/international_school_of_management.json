@@ -1,0 +1,18 @@
+{
+	"uuid": "275025ac-682a-4286-8925-38c208bea279",
+	"officialName": "International School of Management",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Dortmund",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 2190,
+		"date": "2013/14 (SS)"
+	}
+}

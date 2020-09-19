@@ -1,0 +1,18 @@
+{
+	"uuid": "d75dd549-258a-4d05-9987-6020581dcaed",
+	"officialName": "Steinbeis-Hochschule Berlin",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 8142,
+		"date": "2019/20 (WS)"
+	}
+}

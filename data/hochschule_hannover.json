@@ -1,0 +1,18 @@
+{
+	"uuid": "b7d588d3-63ac-4767-8a7d-047da5d6f371",
+	"officialName": "Hochschule Hannover",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NI"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 10040,
+		"date": "2015/16 (WS)"
+	}
+}

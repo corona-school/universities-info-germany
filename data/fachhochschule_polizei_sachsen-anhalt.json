@@ -1,0 +1,18 @@
+{
+	"uuid": "3e724dfa-8ece-4aa6-8075-1177b683dbc1",
+	"officialName": "Fachhochschule Polizei Sachsen-Anhalt",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Aschersleben",
+			"state": "ST"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 316,
+		"date": "2012/13 (WS)"
+	}
+}

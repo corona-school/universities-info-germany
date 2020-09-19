@@ -1,0 +1,18 @@
+{
+	"uuid": "cc7fcf02-7e2a-4a49-b9ae-761f42634049",
+	"officialName": "Fachhochschule für Sport & Management Potsdam",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BB"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 119,
+		"date": "2012/13 (WS)"
+	}
+}

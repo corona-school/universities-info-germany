@@ -1,0 +1,22 @@
+{
+	"uuid": "ab564b4e-b6aa-47e3-947f-bef37c33b595",
+	"officialName": "Hochschule RheinMain",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Wiesbaden",
+			"state": "HE"
+		},
+		{
+			"name": "Rüsselsheim",
+			"state": "HE"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 13246,
+		"date": "2017/18 (WS)"
+	}
+}

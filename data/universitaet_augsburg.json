@@ -1,0 +1,18 @@
+{
+	"uuid": "97b98a1a-d15f-4fdb-bb71-cc88bb041c4d",
+	"officialName": "Universität Augsburg",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 19403,
+		"date": "2019/20 (WS)"
+	}
+}

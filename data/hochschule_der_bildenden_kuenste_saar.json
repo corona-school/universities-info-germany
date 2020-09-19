@@ -1,0 +1,18 @@
+{
+	"uuid": "7e03f3fa-e9aa-4e60-a704-aeaa12f44061",
+	"officialName": "Hochschule der Bildenden Künste Saar",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Saarbrücken",
+			"state": "SL"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 397,
+		"date": "2012/13 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "f253c30b-565a-4405-b5df-aa40a63e84cf",
+	"officialName": "Staatliche Akademie der Bildenden Künste Karlsruhe",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 288,
+		"date": "2016/17 (WS)"
+	}
+}

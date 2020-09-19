@@ -1,0 +1,18 @@
+{
+	"uuid": "c7928a72-a262-43b8-b582-05cd92afab45",
+	"officialName": "Robert Schumann Hochschule Düsseldorf",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 890,
+		"date": "2012/13 (WS)"
+	}
+}

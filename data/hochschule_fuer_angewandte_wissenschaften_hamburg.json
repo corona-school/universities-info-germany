@@ -1,0 +1,18 @@
+{
+	"uuid": "89dc1774-d2e6-4a9c-9ff1-9a61f28339fa",
+	"officialName": "Hochschule für Angewandte Wissenschaften Hamburg",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 16746,
+		"date": "2018/19 (WS)"
+	}
+}

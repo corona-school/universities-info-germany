@@ -1,0 +1,18 @@
+{
+	"uuid": "e892dd3b-941c-4476-a980-a63ec55689f9",
+	"officialName": "Fachhochschule Kiel",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "SH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 7268,
+		"date": "2014/15 (WS)"
+	}
+}

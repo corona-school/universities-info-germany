@@ -1,0 +1,30 @@
+{
+	"uuid": "a68788d8-0baa-4e24-bc2d-18661ddddbb7",
+	"officialName": "Katholische Hochschule Nordrhein-Westfalen",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Köln",
+			"state": "NW"
+		},
+		{
+			"name": "Münster",
+			"state": "NW"
+		},
+		{
+			"name": "Paderborn",
+			"state": "NW"
+		},
+		{
+			"name": "Aachen",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 4030,
+		"date": "2012/13 (WS)"
+	}
+}

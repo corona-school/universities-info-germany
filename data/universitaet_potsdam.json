@@ -1,0 +1,18 @@
+{
+	"uuid": "26a73cc0-0ac3-43cc-8473-b04c6814cf9c",
+	"officialName": "Universität Potsdam",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BB"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 21223,
+		"date": "2019/20 (WS)"
+	}
+}

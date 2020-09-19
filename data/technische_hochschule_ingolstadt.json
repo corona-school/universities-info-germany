@@ -1,0 +1,18 @@
+{
+	"uuid": "c59a94c6-f485-406a-8044-6cc0bbe8d4e5",
+	"officialName": "Technische Hochschule Ingolstadt",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 5800,
+		"date": "2017/18 (WS)"
+	}
+}

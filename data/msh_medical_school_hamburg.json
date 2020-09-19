@@ -1,0 +1,18 @@
+{
+	"uuid": "4d7706c3-1098-4ed1-b243-bd3e8ea8c750",
+	"officialName": "MSH Medical School Hamburg",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 1078,
+		"date": "2013/14 (WS)"
+	}
+}

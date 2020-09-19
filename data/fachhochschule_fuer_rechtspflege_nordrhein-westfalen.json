@@ -1,0 +1,18 @@
+{
+	"uuid": "a3704779-b649-4166-96a9-2265c6675de8",
+	"officialName": "Fachhochschule für Rechtspflege Nordrhein-Westfalen",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Bad Münstereifel",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 685,
+		"date": "2012/13 (WS)"
+	}
+}

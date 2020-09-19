@@ -1,0 +1,18 @@
+{
+	"uuid": "4bf0d364-2db8-4610-84fa-3914aad10976",
+	"officialName": "Karlshochschule International University",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Karlsruhe",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 636,
+		"date": "2012/13 (WS)"
+	}
+}

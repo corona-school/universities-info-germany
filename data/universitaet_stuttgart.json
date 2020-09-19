@@ -1,0 +1,18 @@
+{
+	"uuid": "91bcc1ce-6d15-49aa-919c-d0d3a3d6a111",
+	"officialName": "Universität Stuttgart",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 24153,
+		"date": "2019/20 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "701d7164-c31e-4531-b5d7-5acb7cd9f08c",
+	"officialName": "Universität der Bundeswehr München",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 3453,
+		"date": "2019/20 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "4d49f342-f09b-4651-8ec1-c76c1609ef9b",
+	"officialName": "Karlsruher Institut für Technologie",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 23646,
+		"date": "2019/20 (WS)"
+	}
+}

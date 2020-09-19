@@ -1,0 +1,18 @@
+{
+	"uuid": "3b56d31b-2e23-49a2-adf6-4c785f782da5",
+	"officialName": "Ruhr-Universität Bochum",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 43166,
+		"date": "2019/20 (WS)"
+	}
+}

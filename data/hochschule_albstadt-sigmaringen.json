@@ -1,0 +1,18 @@
+{
+	"uuid": "e06df621-791a-4491-a226-7d08f6317534",
+	"officialName": "Hochschule Albstadt-Sigmaringen",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 2925,
+		"date": "2012/13 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "1981d088-b379-458f-88b3-58d4e38ebab8",
+	"officialName": "Hochschule des Bundes für öffentliche Verwaltung",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Brühl",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 1085,
+		"date": "2012/13 (WS)"
+	}
+}

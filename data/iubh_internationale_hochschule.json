@@ -1,0 +1,18 @@
+{
+	"uuid": "c2954e05-59f0-4e93-981b-677fe2577960",
+	"officialName": "IUBH Internationale Hochschule",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Erfurt",
+			"state": "TH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 27000,
+		"date": "2018/19 (WS)"
+	}
+}

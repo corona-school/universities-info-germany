@@ -1,0 +1,18 @@
+{
+	"uuid": "eeb65630-a18e-44fe-a8a7-9afc92f6b82a",
+	"officialName": "Hamburger Fern-Hochschule",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 9383,
+		"date": "2012/13 (WS)"
+	}
+}

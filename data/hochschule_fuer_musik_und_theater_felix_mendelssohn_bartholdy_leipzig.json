@@ -1,0 +1,18 @@
+{
+	"uuid": "3689b527-5fb6-4a19-83be-fab32f0b4b49",
+	"officialName": "Hochschule für Musik und Theater „Felix Mendelssohn Bartholdy“ Leipzig",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "SN"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 1036,
+		"date": "2012/13 (WS)"
+	}
+}

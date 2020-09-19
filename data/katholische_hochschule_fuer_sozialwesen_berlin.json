@@ -1,0 +1,18 @@
+{
+	"uuid": "9dcd937f-4296-4785-a730-1f14178b1a13",
+	"officialName": "Katholische Hochschule für Sozialwesen Berlin",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 1416,
+		"date": "2012/13 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "e0dc6f68-4d6a-4beb-ab23-e95d8e50c15f",
+	"officialName": "SRH Hochschule Heidelberg",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 2769,
+		"date": "2012/13 (WS)"
+	}
+}

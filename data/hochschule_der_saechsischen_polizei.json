@@ -1,0 +1,18 @@
+{
+	"uuid": "291857fc-4f68-40a3-814c-d5af3b4fdd1f",
+	"officialName": "Hochschule der Sächsischen Polizei",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "FH) (Rothenburg/Oberlausitz",
+			"state": "SN"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 374,
+		"date": "2012/13 (WS)"
+	}
+}

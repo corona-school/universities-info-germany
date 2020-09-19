@@ -1,0 +1,18 @@
+{
+	"uuid": "cd17fdb1-46d3-4296-a23b-2e0127b04a71",
+	"officialName": "Hochschule Hamm-Lippstadt",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 4500,
+		"date": "2015/16 (WS)"
+	}
+}

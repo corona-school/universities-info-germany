@@ -1,0 +1,18 @@
+{
+	"uuid": "f2d248f8-b293-4576-8043-3785c5a37bed",
+	"officialName": "Naturwissenschaftlich-Technische Akademie Isny",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 194,
+		"date": "2012/13 (WS)"
+	}
+}

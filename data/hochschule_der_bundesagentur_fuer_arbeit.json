@@ -1,0 +1,22 @@
+{
+	"uuid": "6dfcae7b-e708-455e-be7b-e5bf452e51f9",
+	"officialName": "Hochschule der Bundesagentur für Arbeit",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Mannheim",
+			"state": "BW"
+		},
+		{
+			"name": "Schwerin",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 849,
+		"date": "2012/13 (WS)"
+	}
+}

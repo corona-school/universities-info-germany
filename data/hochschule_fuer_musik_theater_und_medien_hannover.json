@@ -1,0 +1,18 @@
+{
+	"uuid": "08e4066e-2120-422b-ba90-76df408c8b34",
+	"officialName": "Hochschule für Musik, Theater und Medien Hannover",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NI"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 1287,
+		"date": "2012/13 (WS)"
+	}
+}

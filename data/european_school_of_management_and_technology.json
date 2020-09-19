@@ -1,0 +1,18 @@
+{
+	"uuid": "6525f3f8-e4af-4ef3-b3f0-4babec68648e",
+	"officialName": "European School of Management and Technology",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 373,
+		"date": "2019/20 (WS)"
+	}
+}

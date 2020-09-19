@@ -1,0 +1,18 @@
+{
+	"uuid": "ae52cf66-bd07-4d2e-93b1-69a96fd78d36",
+	"officialName": "Fliedner Fachhochschule Düsseldorf",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 268,
+		"date": "2012/13 (WS)"
+	}
+}

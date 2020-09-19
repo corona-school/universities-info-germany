@@ -1,0 +1,18 @@
+{
+	"uuid": "41ae9372-5bda-418b-9529-aed7193f41c2",
+	"officialName": "Hochschule für Gestaltung Schwäbisch Gmünd",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 642,
+		"date": "2012/13 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "8411b324-b39c-4294-9bab-cd776b6e4be1",
+	"officialName": "Ostbayerische Technische Hochschule Amberg-Weiden",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 3500,
+		"date": "2015/16 (WS)"
+	}
+}

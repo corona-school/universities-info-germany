@@ -1,0 +1,18 @@
+{
+	"uuid": "a85c8712-fee0-411b-be43-a4b4b6af0bf6",
+	"officialName": "Philosophisch-Theologische Hochschule Vallendar",
+	"type": "Uni",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "RP"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 398,
+		"date": "2017/18 (WS)"
+	}
+}

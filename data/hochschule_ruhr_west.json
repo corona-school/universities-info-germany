@@ -1,0 +1,22 @@
+{
+	"uuid": "d54feb3f-d16b-45be-8eb6-5aade4f97ae1",
+	"officialName": "Hochschule Ruhr West",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Mülheim",
+			"state": "NW"
+		},
+		{
+			"name": "Bottrop",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 4400,
+		"date": "2015/16 (WS)"
+	}
+}

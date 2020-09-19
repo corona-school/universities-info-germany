@@ -1,0 +1,18 @@
+{
+	"uuid": "854d1d39-f8ea-4fd2-a969-0f9b3048092b",
+	"officialName": "Katholische Universität Eichstätt-Ingolstadt",
+	"type": "Uni",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 4769,
+		"date": "2019/20 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "c16d7abd-8879-4ee9-bee9-0eb5be94254c",
+	"officialName": "SRH Hochschule Hamm",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 495,
+		"date": "2012/13 (WS)"
+	}
+}

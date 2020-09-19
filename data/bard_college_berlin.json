@@ -1,0 +1,18 @@
+{
+	"uuid": "3ea22351-27e7-49db-9e61-d7024cf7d9d8",
+	"officialName": "Bard College Berlin",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 240,
+		"date": "2019/20 (WS)"
+	}
+}

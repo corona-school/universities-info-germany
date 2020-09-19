@@ -1,0 +1,18 @@
+{
+	"uuid": "cb4efe82-d7d3-4e94-a063-156aa42ff5e3",
+	"officialName": "Hochschule Hildesheim/Holzminden/Göttingen",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NI"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 5193,
+		"date": "2012/13 (WS)"
+	}
+}

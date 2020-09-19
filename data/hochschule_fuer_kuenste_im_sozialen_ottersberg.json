@@ -1,0 +1,18 @@
+{
+	"uuid": "2ba4262c-fa1e-4977-8457-00c9f08ddf10",
+	"officialName": "Hochschule für Künste im Sozialen Ottersberg",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NI"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 431,
+		"date": "2012/13 (WS)"
+	}
+}

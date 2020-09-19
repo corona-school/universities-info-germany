@@ -1,0 +1,18 @@
+{
+	"uuid": "c1d81d1f-9543-49c8-8115-c108a3c392fd",
+	"officialName": "Quadriga Hochschule Berlin",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 75,
+		"date": "2012/13 (WS)"
+	}
+}

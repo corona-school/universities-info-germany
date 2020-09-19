@@ -1,0 +1,18 @@
+{
+	"uuid": "485905f7-5d64-4f49-bd3a-5b13fe484a34",
+	"officialName": "CVJM-Hochschule",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Kassel",
+			"state": "HE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 297,
+		"date": "2012/13 (WS)"
+	}
+}

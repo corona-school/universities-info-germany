@@ -1,0 +1,18 @@
+{
+	"uuid": "a3f287a1-1666-47ae-b82b-3d075f8afa93",
+	"officialName": "Hochschule Zittau/Görlitz",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "SN"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 3342,
+		"date": "2012/13 (WS)"
+	}
+}

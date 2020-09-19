@@ -1,0 +1,22 @@
+{
+	"uuid": "bcca8377-342d-4c14-be7f-04e858e92b54",
+	"officialName": "EBS Universität für Wirtschaft und Recht",
+	"type": "Uni",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Wiesbaden",
+			"state": "HE"
+		},
+		{
+			"name": "Oestrich-Winkel",
+			"state": "HE"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 1931,
+		"date": "2019/20 (WS)"
+	}
+}

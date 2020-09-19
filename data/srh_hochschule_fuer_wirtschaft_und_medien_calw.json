@@ -1,0 +1,18 @@
+{
+	"uuid": "df9c48bf-cbba-46d0-816b-58b187dd6425",
+	"officialName": "SRH Hochschule für Wirtschaft und Medien Calw",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 299,
+		"date": "2012/13 (WS)"
+	}
+}

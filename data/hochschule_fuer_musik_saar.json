@@ -1,0 +1,18 @@
+{
+	"uuid": "b58bfad5-7c95-445b-a454-4504782c585b",
+	"officialName": "Hochschule für Musik Saar",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Saarbrücken",
+			"state": "SL"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 445,
+		"date": "2012/13 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "a19e7e2f-3c1b-47b8-aea7-6a12900b72f7",
+	"officialName": "Hochschule Merseburg",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "ST"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 2727,
+		"date": "2012/13 (WS)"
+	}
+}

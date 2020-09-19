@@ -1,0 +1,18 @@
+{
+	"uuid": "e5c473f2-61e5-4ec1-b0b9-da130ab1d167",
+	"officialName": "Hochschule Mittweida",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "SN"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 7057,
+		"date": "2016 (SS)"
+	}
+}

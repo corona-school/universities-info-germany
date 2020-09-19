@@ -1,0 +1,18 @@
+{
+	"uuid": "1480114e-aaa4-44e6-bafb-d7ec58721617",
+	"officialName": "Brandenburgische Technische Universität Cottbus-Senftenberg",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BB"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 6806,
+		"date": "2019/20 (WS)"
+	}
+}

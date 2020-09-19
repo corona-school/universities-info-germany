@@ -1,0 +1,18 @@
+{
+	"uuid": "d25867e8-984b-404b-b61e-df524ca0271a",
+	"officialName": "SRH Fernhochschule Riedlingen",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 5400,
+		"date": "2019/20 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "dcfd7014-7072-4352-9afa-df62666a8e5e",
+	"officialName": "Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HH"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 2809,
+		"date": "2019/20 (WS)"
+	}
+}

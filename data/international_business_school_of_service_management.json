@@ -1,0 +1,18 @@
+{
+	"uuid": "512cee0a-a938-47d1-89bd-d5673c9a1cdc",
+	"officialName": "International Business School of Service Management",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Hamburg",
+			"state": "HH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 74,
+		"date": "2012/13 (WS)"
+	}
+}

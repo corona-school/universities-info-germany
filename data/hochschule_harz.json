@@ -1,0 +1,22 @@
+{
+	"uuid": "062c06b7-b179-41b2-8e7f-0dcb4f155c0f",
+	"officialName": "Hochschule Harz",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Wernigerode",
+			"state": "ST"
+		},
+		{
+			"name": "Halberstadt",
+			"state": "ST"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 3182,
+		"date": "2012/13 (WS)"
+	}
+}

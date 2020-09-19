@@ -1,0 +1,18 @@
+{
+	"uuid": "d0a9cbf0-ec78-4d71-afa6-ffd03659916e",
+	"officialName": "Evangelische Hochschule Tabor",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Marburg",
+			"state": "HE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 87,
+		"date": "2012/13 (WS)"
+	}
+}

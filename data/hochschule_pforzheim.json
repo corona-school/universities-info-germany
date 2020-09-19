@@ -1,0 +1,18 @@
+{
+	"uuid": "cc3ba8f9-eb76-48f8-b377-f70a56900347",
+	"officialName": "Hochschule Pforzheim",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 5442,
+		"date": "2012/13 (WS)"
+	}
+}

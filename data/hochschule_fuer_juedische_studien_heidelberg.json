@@ -1,0 +1,18 @@
+{
+	"uuid": "b90f7c8e-f393-4c54-8094-9beb220c27cc",
+	"officialName": "Hochschule für Jüdische Studien Heidelberg",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 98,
+		"date": "2019/20 (WS)"
+	}
+}

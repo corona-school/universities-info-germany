@@ -1,0 +1,18 @@
+{
+	"uuid": "675eb241-3538-4b64-9742-2aabc096c1c0",
+	"officialName": "Hochschule für Musik und Theater Hamburg",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HH"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 1252,
+		"date": "2012/13 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "63750efa-995e-4762-9621-20a0e1705dc2",
+	"officialName": "Fachhochschule für die Wirtschaft Hannover",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NI"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 473,
+		"date": "2012/13 (WS)"
+	}
+}

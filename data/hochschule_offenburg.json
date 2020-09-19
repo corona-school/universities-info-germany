@@ -1,0 +1,18 @@
+{
+	"uuid": "8fa7fcb9-cc70-41b9-95f0-458b2a8475bc",
+	"officialName": "Hochschule Offenburg",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 4096,
+		"date": "2012/13 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "b17e537f-29bc-4dc8-bfe9-61249b7f862e",
+	"officialName": "Fachhochschule für Verwaltung des Saarlandes",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Saarbrücken",
+			"state": "SL"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 458,
+		"date": "2012/13 (WS)"
+	}
+}

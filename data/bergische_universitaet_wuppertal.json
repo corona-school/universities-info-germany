@@ -1,0 +1,18 @@
+{
+	"uuid": "95011738-4d22-4233-92cc-940fcbba3354",
+	"officialName": "Bergische Universität Wuppertal",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 22835,
+		"date": "2019/20 (WS)"
+	}
+}

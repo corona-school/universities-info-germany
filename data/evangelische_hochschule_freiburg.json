@@ -1,0 +1,18 @@
+{
+	"uuid": "c6a6bd63-3b2e-433a-9fe5-ed68a4f3bdc4",
+	"officialName": "Evangelische Hochschule Freiburg",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 896,
+		"date": "2012/13 (WS)"
+	}
+}

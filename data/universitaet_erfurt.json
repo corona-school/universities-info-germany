@@ -1,0 +1,18 @@
+{
+	"uuid": "b2103cd3-be1b-4a81-be19-fc16df8fa3fe",
+	"officialName": "Universität Erfurt",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "TH"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 5928,
+		"date": "2019/20 (WS)"
+	}
+}

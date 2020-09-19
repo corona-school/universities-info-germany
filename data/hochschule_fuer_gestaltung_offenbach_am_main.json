@@ -1,0 +1,18 @@
+{
+	"uuid": "9129cdec-672a-400d-b9ad-a0b843dd9168",
+	"officialName": "Hochschule für Gestaltung Offenbach am Main",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HE"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 644,
+		"date": "2012/13 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "640db18f-3ce1-4091-886f-59c571b1ab44",
+	"officialName": "Wilhelm Büchner Hochschule",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Pfungstadt",
+			"state": "HE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 5804,
+		"date": "2012/13 (WS)"
+	}
+}

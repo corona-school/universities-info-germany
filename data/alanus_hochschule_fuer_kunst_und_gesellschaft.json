@@ -1,0 +1,18 @@
+{
+	"uuid": "a58024b9-c073-4e22-9687-c49e356f189e",
+	"officialName": "Alanus Hochschule für Kunst und Gesellschaft",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Alfter",
+			"state": "NW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 914,
+		"date": "2012/13 (WS)"
+	}
+}

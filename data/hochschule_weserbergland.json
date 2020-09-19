@@ -1,0 +1,18 @@
+{
+	"uuid": "e3ee4823-83fc-4cb5-be38-2d976b125643",
+	"officialName": "Hochschule Weserbergland",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Hameln",
+			"state": "NI"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 453,
+		"date": "2018/19 (WS)"
+	}
+}

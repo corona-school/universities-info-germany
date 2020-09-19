@@ -1,0 +1,18 @@
+{
+	"uuid": "c4e6289c-2df2-4e13-9076-ead28466c64a",
+	"officialName": "Technische Hochschule Deggendorf",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 5760,
+		"date": "2015/16 (WS)"
+	}
+}

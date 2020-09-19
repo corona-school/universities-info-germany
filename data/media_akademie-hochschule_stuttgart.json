@@ -1,0 +1,18 @@
+{
+	"uuid": "447ddc1d-d31f-4d61-9711-c4265ea7ab4c",
+	"officialName": "media Akademie - Hochschule Stuttgart",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 110,
+		"date": "2018/19 (WS)"
+	}
+}

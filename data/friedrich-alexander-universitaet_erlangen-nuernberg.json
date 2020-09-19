@@ -1,0 +1,18 @@
+{
+	"uuid": "c5d7ddfd-916b-47a3-99ba-d4d0d2605e47",
+	"officialName": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 37575,
+		"date": "2019/20 (WS)"
+	}
+}

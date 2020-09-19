@@ -1,0 +1,18 @@
+{
+	"uuid": "f552499b-59bf-4faa-a4d1-e2a54664d1c6",
+	"officialName": "SRH Hochschule der populären Künste",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 269,
+		"date": "2012/13 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "8fa77064-9035-47c3-85f8-328df6bbf332",
+	"officialName": "DPFA Hochschule Sachsen",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Zwickau",
+			"state": "SN"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 27,
+		"date": "2012/13 (WS)"
+	}
+}

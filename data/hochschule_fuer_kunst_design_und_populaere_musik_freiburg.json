@@ -1,0 +1,18 @@
+{
+	"uuid": "3ecaa81c-0dcd-498d-b21d-ba0828fd23f4",
+	"officialName": "Hochschule für Kunst, Design und Populäre Musik Freiburg",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 111,
+		"date": "2012/13 (WS)"
+	}
+}

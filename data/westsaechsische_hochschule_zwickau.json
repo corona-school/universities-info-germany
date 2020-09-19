@@ -1,0 +1,18 @@
+{
+	"uuid": "eaa61251-864f-4ab8-b031-71333619ab58",
+	"officialName": "Westsächsische Hochschule Zwickau",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "SN"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 4880,
+		"date": "2012/13 (WS)"
+	}
+}

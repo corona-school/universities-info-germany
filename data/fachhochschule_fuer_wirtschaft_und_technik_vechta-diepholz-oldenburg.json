@@ -1,0 +1,18 @@
+{
+	"uuid": "88483687-43c5-458e-abf0-f9ef12ef9f00",
+	"officialName": "Fachhochschule für Wirtschaft und Technik Vechta/Diepholz/Oldenburg",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NI"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 700,
+		"date": "2012/13 (WS)"
+	}
+}

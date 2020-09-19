@@ -1,0 +1,18 @@
+{
+	"uuid": "31860a59-a526-4e79-b83b-5eb06783bb7b",
+	"officialName": "Katholische Stiftungshochschule München",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 2166,
+		"date": "2012/13 (WS)"
+	}
+}

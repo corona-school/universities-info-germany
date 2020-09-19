@@ -1,0 +1,18 @@
+{
+	"uuid": "570f352f-6af4-4288-86cf-1071a5eb62dd",
+	"officialName": "Hochschule Fresenius",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Idstein",
+			"state": "HE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 5708,
+		"date": "2012/13 (WS)"
+	}
+}

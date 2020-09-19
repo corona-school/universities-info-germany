@@ -1,0 +1,18 @@
+{
+	"uuid": "69db4bf6-c5af-40f0-a1a8-a2d12e98d466",
+	"officialName": "EBC Hochschule",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 873,
+		"date": "2012/13 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "027f6c9d-ec00-4d2f-a5f2-a5f61cceaad0",
+	"officialName": "Theologische Hochschule Friedensau",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "ST"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 188,
+		"date": "2012/13 (WS)"
+	}
+}

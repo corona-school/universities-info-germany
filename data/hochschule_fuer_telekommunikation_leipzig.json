@@ -1,0 +1,18 @@
+{
+	"uuid": "16537dde-c732-4e1f-bc42-b0bc3bfe0046",
+	"officialName": "Hochschule für Telekommunikation Leipzig",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "SN"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 1004,
+		"date": "2012/13 (WS)"
+	}
+}

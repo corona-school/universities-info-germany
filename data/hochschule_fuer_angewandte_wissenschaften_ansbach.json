@@ -1,0 +1,18 @@
+{
+	"uuid": "a37d424b-695c-4910-a2bc-a21ecfbfb33a",
+	"officialName": "Hochschule für angewandte Wissenschaften Ansbach",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 3100,
+		"date": "2015/16 (WS)"
+	}
+}

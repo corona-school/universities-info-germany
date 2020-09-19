@@ -1,0 +1,18 @@
+{
+	"uuid": "80d88105-e362-4685-bcf9-402574f3626c",
+	"officialName": "Evangelische Hochschule Darmstadt",
+	"type": "FH",
+	"sponsor": "confessional",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 1603,
+		"date": "2012/13 (WS)"
+	}
+}

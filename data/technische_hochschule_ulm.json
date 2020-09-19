@@ -1,0 +1,18 @@
+{
+	"uuid": "f8d3cb34-93b8-4757-a24b-4a9966aac136",
+	"officialName": "Technische Hochschule Ulm",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 4018,
+		"date": "2012/13 (WS)"
+	}
+}

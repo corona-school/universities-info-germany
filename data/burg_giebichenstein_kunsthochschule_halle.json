@@ -1,0 +1,18 @@
+{
+	"uuid": "aa29fb84-f569-480d-966b-84eff66ae84d",
+	"officialName": "Burg Giebichenstein Kunsthochschule Halle",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "ST"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 1059,
+		"date": "2012/13 (WS)"
+	}
+}

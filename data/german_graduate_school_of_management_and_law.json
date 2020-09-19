@@ -1,0 +1,18 @@
+{
+	"uuid": "bc1f587f-9137-4880-91aa-ca02c01a4e94",
+	"officialName": "German Graduate School of Management and Law",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Heilbronn",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 128,
+		"date": "2012/13 (WS)"
+	}
+}

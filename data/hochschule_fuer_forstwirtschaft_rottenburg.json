@@ -1,0 +1,18 @@
+{
+	"uuid": "0bf90072-3584-42c9-be3a-1e2987271f67",
+	"officialName": "Hochschule für Forstwirtschaft Rottenburg",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 1000,
+		"date": "2014/15 (WS)"
+	}
+}

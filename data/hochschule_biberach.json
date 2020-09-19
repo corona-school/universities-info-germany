@@ -1,0 +1,18 @@
+{
+	"uuid": "5772b7bd-66f9-4cea-9f41-308c88d42cd2",
+	"officialName": "Hochschule Biberach",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 2370,
+		"date": "2012/13 (WS)"
+	}
+}

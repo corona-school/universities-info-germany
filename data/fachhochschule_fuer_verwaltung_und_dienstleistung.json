@@ -1,0 +1,22 @@
+{
+	"uuid": "456dd081-6342-4e60-b176-6dc4325f4d52",
+	"officialName": "Fachhochschule für Verwaltung und Dienstleistung",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Altenholz",
+			"state": "SH"
+		},
+		{
+			"name": "Reinfeld",
+			"state": "SH"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 807,
+		"date": "2012/13 (WS)"
+	}
+}

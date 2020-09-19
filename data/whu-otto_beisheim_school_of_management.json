@@ -1,0 +1,18 @@
+{
+	"uuid": "3702be51-3e52-4aed-94bc-7d5989b58ca6",
+	"officialName": "WHU – Otto Beisheim School of Management",
+	"type": "Uni",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Vallendar",
+			"state": "RP"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 1371,
+		"date": "2019/20 (WS)"
+	}
+}

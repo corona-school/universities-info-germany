@@ -1,0 +1,18 @@
+{
+	"uuid": "1ed3346f-a5fa-4513-8571-04566b12ea84",
+	"officialName": "Universität Regensburg",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 20585,
+		"date": "2019/20 (WS)"
+	}
+}

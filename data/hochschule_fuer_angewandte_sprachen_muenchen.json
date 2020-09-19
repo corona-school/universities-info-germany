@@ -1,0 +1,18 @@
+{
+	"uuid": "c468219e-3d2e-426c-abf0-2869e0ba8db6",
+	"officialName": "Hochschule für Angewandte Sprachen München",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 371,
+		"date": "2012/13 (WS)"
+	}
+}

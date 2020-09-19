@@ -1,0 +1,18 @@
+{
+	"uuid": "42236de4-a056-4b90-bd90-d21aa6db50e2",
+	"officialName": "Beuth Hochschule für Technik Berlin",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BE"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 12519,
+		"date": "2014/15 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "b6648188-6efa-42fb-a044-424a44bc1281",
+	"officialName": "Apollon Hochschule der Gesundheitswirtschaft",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HB"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 1242,
+		"date": "2012/13 (WS)"
+	}
+}

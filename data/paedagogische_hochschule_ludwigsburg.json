@@ -1,0 +1,18 @@
+{
+	"uuid": "1f51cab2-feee-484c-8c04-30e5211547ef",
+	"officialName": "Pädagogische Hochschule Ludwigsburg",
+	"type": "PH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 5639,
+		"date": "2016/17 (WS)"
+	}
+}

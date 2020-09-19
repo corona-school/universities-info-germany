@@ -1,0 +1,18 @@
+{
+	"uuid": "3700cf2b-6689-4f5e-9552-60865dedaed3",
+	"officialName": "Dresden International University",
+	"type": "Uni",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "SN"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 2189,
+		"date": "2019/20 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "36f9ef86-6948-425d-a747-f11963d0a59c",
+	"officialName": "Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 9000,
+		"date": "2016/17 (WS)"
+	}
+}

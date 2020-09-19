@@ -1,0 +1,18 @@
+{
+	"uuid": "2207d53d-4a22-4673-985d-564814c19fcd",
+	"officialName": "Albert-Ludwigs-Universität Freiburg",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 24028,
+		"date": "2019/20 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "80fbe102-a892-41fd-aa0e-2ea0727494e0",
+	"officialName": "Munich Business School",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "München",
+			"state": "BY"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 518,
+		"date": "2012/13 (WS)"
+	}
+}

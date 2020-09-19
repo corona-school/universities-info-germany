@@ -1,0 +1,26 @@
+{
+	"uuid": "0587d377-17be-4456-96e9-3b17d631b234",
+	"officialName": "Technische Hochschule Mittelhessen",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Gießen",
+			"state": "HE"
+		},
+		{
+			"name": "Friedberg",
+			"state": "HE"
+		},
+		{
+			"name": "Wetzlar",
+			"state": "HE"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 18684,
+		"date": "2019/20 (WS)"
+	}
+}

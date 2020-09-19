@@ -1,0 +1,18 @@
+{
+	"uuid": "397816e4-df08-464a-b103-458c27346172",
+	"officialName": "Universität Hohenheim",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Stuttgart",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 8614,
+		"date": "2019/20 (WS)"
+	}
+}

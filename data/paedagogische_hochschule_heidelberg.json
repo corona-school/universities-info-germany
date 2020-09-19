@@ -1,0 +1,18 @@
+{
+	"uuid": "dfc61e72-e868-4656-9fda-ef6dab392053",
+	"officialName": "Pädagogische Hochschule Heidelberg",
+	"type": "PH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 4458,
+		"date": "2016/17 (WS)"
+	}
+}

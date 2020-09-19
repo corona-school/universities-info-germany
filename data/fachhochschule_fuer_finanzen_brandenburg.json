@@ -1,0 +1,18 @@
+{
+	"uuid": "85ab4ca2-7f5a-4474-9ff3-3c05c31d1bfd",
+	"officialName": "Fachhochschule für Finanzen Brandenburg",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "Königs Wusterhausen",
+			"state": "BB"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 580,
+		"date": "2012/13 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "46049a0c-8daf-4879-bf55-eb11c58d9b1c",
+	"officialName": "Hochschule Düsseldorf",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "NW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 8532,
+		"date": "2012/13 (WS)"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"uuid": "a3c086bc-5d24-4c8d-8ba4-c5ba2fe49b38",
+	"officialName": "VWA Hochschule für berufsbegleitendes Studium Stuttgart",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 160,
+		"date": "2013/14 (WS)"
+	}
+}

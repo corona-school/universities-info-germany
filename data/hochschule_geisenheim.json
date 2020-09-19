@@ -1,0 +1,18 @@
+{
+	"uuid": "79441f19-596d-4603-810f-62f6bc2a5da5",
+	"officialName": "Hochschule Geisenheim",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HE"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 1100,
+		"date": "2012/13 (WS)"
+	}
+}

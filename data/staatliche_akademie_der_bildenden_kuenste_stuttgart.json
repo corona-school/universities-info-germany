@@ -1,0 +1,18 @@
+{
+	"uuid": "8c884fdc-93c9-47c3-b97a-b1df68ff86a8",
+	"officialName": "Staatliche Akademie der Bildenden Künste Stuttgart",
+	"type": "FH",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 840,
+		"date": "2016/17 (WS)"
+	}
+}

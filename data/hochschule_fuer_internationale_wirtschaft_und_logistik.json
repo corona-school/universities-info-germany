@@ -1,0 +1,18 @@
+{
+	"uuid": "66aea850-945a-48ad-bf11-e1263488d653",
+	"officialName": "Hochschule für internationale Wirtschaft und Logistik",
+	"type": "FH",
+	"sponsor": "private",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "HB"
+		}
+	],
+	"doctorate": false,
+	"studentCount": {
+		"count": 68,
+		"date": "2012/13 (WS)"
+	}
+}

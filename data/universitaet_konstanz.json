@@ -1,0 +1,18 @@
+{
+	"uuid": "6a415eb1-1b60-49f1-af93-54df998420b6",
+	"officialName": "Universität Konstanz",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": [],
+	"locations": [
+		{
+			"name": "",
+			"state": "BW"
+		}
+	],
+	"doctorate": true,
+	"studentCount": {
+		"count": 11002,
+		"date": "2019/20 (WS)"
+	}
+}
