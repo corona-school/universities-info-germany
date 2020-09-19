@@ -12,7 +12,7 @@ export function parseName(data: WikiFormat): ({
     const regex = /\((.+)\)/
     const nameLocations = data.Name.match(regex);
     if (nameLocations) {
-        locationNames = nameLocations[0].slice(1,-1).split(",").map(s => s.trim());
+        locationNames = nameLocations[0].slice(1,-1).split(/,| und/g).map(s => s.trim());
     }
 
     const officialName = data.Name.replace(regex, "").trim();
