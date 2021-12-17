@@ -1,0 +1,13 @@
+{
+	"uuid": "0b350e6c-a17a-4df5-9a2d-0023e7bfe425",
+	"officialName": "Eidgenössische Technische Hochschule Zürich",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": ["ETH"],
+	"locations": [ ],
+	"doctorate": true,
+	"studentCount": {
+		"count": 23000,
+		"date": "2020/21 (WS)"
+	}
+}

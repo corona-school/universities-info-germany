@@ -1,0 +1,13 @@
+{
+	"uuid": "0b450e6c-a17a-4df5-9a2d-0023e7bfe425",
+	"officialName": "Universität Zürich",
+	"type": "Uni",
+	"sponsor": "public",
+	"nicknames": ["UTH"],
+	"locations": [ ],
+	"doctorate": true,
+	"studentCount": {
+		"count": 28000,
+		"date": "2020/21 (WS)"
+	}
+}
